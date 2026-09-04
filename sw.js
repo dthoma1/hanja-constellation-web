@@ -1,4 +1,4 @@
-const CACHE_NAME = "hanja-constellation-v4";
+const CACHE_NAME = "hanja-constellation-v5";
 const ASSETS = [
   "./",
   "./index.html",

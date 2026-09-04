@@ -120,15 +120,13 @@ function stat(icon, value, label) {
 
 function lessonCard(lesson, completed) {
   const isComplete = completed.has(lesson.id);
-  const isUnlocked = lesson.id === 1 || completed.has(lesson.id - 1);
   return `
     <button
-      class="lesson-card ${isComplete ? "complete" : ""} ${isUnlocked ? "" : "locked"}"
+      class="lesson-card ${isComplete ? "complete" : ""}"
       data-lesson="${lesson.id}"
-      ${isUnlocked ? "" : "disabled"}
       aria-label="Day ${lesson.id}: ${escapeHtml(lesson.koreanName)}${isComplete ? ", completed" : ""}"
     >
-      <span class="hanja-orb">${isUnlocked ? escapeHtml(lesson.character) : "鎖"}</span>
+      <span class="hanja-orb">${escapeHtml(lesson.character)}</span>
       <span class="lesson-copy">
         <span class="lesson-day">DAY ${lesson.id}</span>
         <span class="lesson-name">${escapeHtml(lesson.koreanName)}</span>

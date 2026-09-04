@@ -7,7 +7,7 @@ A mobile-first, installable web app for practicing 105 essential Hanja through K
 - 105 daily Hanja lessons and 525 original vocabulary examples
 - Component breakdowns for every vocabulary word, such as `火 fire + 山 mountain`
 - Predict the Compound, Meaning Match, Word Builder, Hanja Detective, and Speed Round
-- Local XP, streaks, lesson completion, and unlocking
+- Open access to every lesson, with local XP, streaks, and completion tracking
 - Offline support through a service worker
 - No accounts, analytics, cookies, or server-side data storage
 

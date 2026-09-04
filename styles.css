@@ -185,11 +185,6 @@ h1 {
   box-shadow: 0 18px 44px rgb(48 39 22 / 13%);
 }
 
-.lesson-card:disabled {
-  cursor: not-allowed;
-  opacity: 0.48;
-}
-
 .hanja-orb {
   display: grid;
   width: 62px;
@@ -205,10 +200,6 @@ h1 {
 
 .lesson-card.complete .hanja-orb {
   background: var(--jade);
-}
-
-.lesson-card.locked .hanja-orb {
-  background: #c8c5bc;
 }
 
 .lesson-copy {
