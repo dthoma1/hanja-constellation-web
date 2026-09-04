@@ -123,7 +123,6 @@ h1 {
 .stat,
 .word-card,
 .lesson-card,
-.prompt-card,
 .constellation-card {
   border: 1px solid rgb(255 255 255 / 70%);
   background: rgb(255 254 250 / 82%);
@@ -440,7 +439,6 @@ h1 {
   background: rgb(232 79 74 / 10%);
 }
 
-.prompt-card,
 .constellation-card {
   margin-bottom: 18px;
   padding: 20px;

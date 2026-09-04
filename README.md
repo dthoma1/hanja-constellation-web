@@ -5,7 +5,7 @@ A mobile-first, installable web app for practicing 105 essential Hanja through K
 ## Features
 
 - 105 daily Hanja lessons and 525 original vocabulary examples
-- Meaning Match, Sentence Blank, Word Builder, Hanja Detective, and Speed Round
+- Meaning Match, Word Builder, Hanja Detective, and Speed Round
 - Local XP, streaks, lesson completion, and unlocking
 - Offline support through a service worker
 - No accounts, analytics, cookies, or server-side data storage

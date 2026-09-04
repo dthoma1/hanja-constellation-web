@@ -2,7 +2,6 @@ const STORAGE_KEY = "hanja-constellation-web.v1";
 
 const GAME_TYPES = [
   { id: "meaning", title: "Meaning Match", icon: "⇄" },
-  { id: "sentence", title: "Sentence Blank", icon: "✎" },
   { id: "builder", title: "Word Builder", icon: "字" },
   { id: "detective", title: "Hanja Detective", icon: "⌕" },
   { id: "speed", title: "Speed Round", icon: "ϟ" },
@@ -202,13 +201,6 @@ function renderExercise(type) {
     return choices(stableOptions(word.meaning, state.lesson.words.map((item) => item.meaning)), word.meaning);
   }
 
-  if (type === "sentence") {
-    return `
-      <div class="prompt-card" lang="ko">${escapeHtml(word.blankedSentence)}</div>
-      ${choices(stableOptions(word.term, state.lesson.words.map((item) => item.term)), word.term)}
-    `;
-  }
-
   if (type === "builder") {
     const characters = [...word.hanja].sort().reverse();
     return `
@@ -255,7 +247,6 @@ function renderExercise(type) {
 function exercisePrompt(type) {
   const word = currentWord();
   if (type === "meaning") return `What does ${word.term} (${word.hanja}) mean?`;
-  if (type === "sentence") return "Choose the word that completes the sentence.";
   if (type === "builder") return `Build the Hanja for ${word.term}.`;
   if (type === "detective") return "What idea connects these words?";
   return `Does this word contain today's Hanja, ${state.lesson.character}?`;
@@ -327,7 +318,6 @@ function speedWord() {
 function correctAnswer() {
   const type = GAME_TYPES[state.step].id;
   if (type === "meaning") return currentWord().meaning;
-  if (type === "sentence") return currentWord().term;
   if (type === "builder") return currentWord().hanja;
   if (type === "detective") return state.lesson.coreMeaning;
   return speedWord().hanja.includes(state.lesson.character) ? "Yes" : "No";
