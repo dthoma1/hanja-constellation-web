@@ -1,4 +1,4 @@
-const CACHE_NAME = "hanja-constellation-v2";
+const CACHE_NAME = "hanja-constellation-v3";
 const ASSETS = [
   "./",
   "./index.html",
@@ -6,6 +6,7 @@ const ASSETS = [
   "./app.js",
   "./manifest.webmanifest",
   "./data/lessons.json",
+  "./data/hanja-glosses.json",
   "./icons/icon.svg",
   "./icons/icon-192.png",
   "./icons/icon-512.png",

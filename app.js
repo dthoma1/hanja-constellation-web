@@ -11,6 +11,7 @@ const app = document.querySelector("#app");
 
 const state = {
   lessons: [],
+  glosses: {},
   view: "home",
   lesson: null,
   step: 0,
@@ -29,9 +30,14 @@ init();
 
 async function init() {
   try {
-    const response = await fetch("./data/lessons.json");
-    if (!response.ok) throw new Error(`Lesson data returned ${response.status}`);
-    state.lessons = await response.json();
+    const [lessonResponse, glossResponse] = await Promise.all([
+      fetch("./data/lessons.json"),
+      fetch("./data/hanja-glosses.json"),
+    ]);
+    if (!lessonResponse.ok) throw new Error(`Lesson data returned ${lessonResponse.status}`);
+    if (!glossResponse.ok) throw new Error(`Hanja glosses returned ${glossResponse.status}`);
+    state.lessons = await lessonResponse.json();
+    state.glosses = await glossResponse.json();
     render();
     registerServiceWorker();
   } catch (error) {
@@ -151,9 +157,14 @@ function renderIntro() {
       <div class="word-list">
         ${lesson.words.map((word) => `
           <article class="word-card">
-            <strong>${escapeHtml(word.term)}</strong>
-            <span class="word-hanja">${escapeHtml(word.hanja)}</span>
+            <div class="word-heading">
+              <strong>${escapeHtml(word.term)}</strong>
+              <span class="word-hanja">${escapeHtml(word.hanja)}</span>
+            </div>
             <span class="word-meaning">${escapeHtml(word.meaning)}</span>
+            <div class="word-breakdown" aria-label="${escapeHtml(`${word.term} character breakdown`)}">
+              ${renderBreakdown(word.hanja)}
+            </div>
           </article>
         `).join("")}
       </div>
@@ -333,6 +344,15 @@ function answerIsCorrect() {
 
 function stableOptions(correct, pool) {
   return [...new Set([correct, ...pool.filter((item) => item !== correct).slice(0, 3)])].sort((a, b) => a.localeCompare(b));
+}
+
+function renderBreakdown(hanja) {
+  return [...hanja].map((character) => `
+    <span class="breakdown-part">
+      <span class="breakdown-character">${escapeHtml(character)}</span>
+      <span class="breakdown-gloss">${escapeHtml(state.glosses[character])}</span>
+    </span>
+  `).join('<span class="breakdown-plus" aria-hidden="true">+</span>');
 }
 
 function detectiveOptions() {

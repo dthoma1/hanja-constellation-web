@@ -296,11 +296,17 @@ h1 {
 
 .word-card {
   display: grid;
-  grid-template-columns: auto auto 1fr;
+  grid-template-columns: 1fr auto;
   gap: 9px;
   align-items: baseline;
   padding: 14px;
   border-radius: 15px;
+}
+
+.word-heading {
+  display: flex;
+  gap: 9px;
+  align-items: baseline;
 }
 
 .word-card strong {
@@ -314,6 +320,40 @@ h1 {
 .word-meaning {
   color: var(--muted);
   text-align: right;
+}
+
+.word-breakdown {
+  display: flex;
+  grid-column: 1 / -1;
+  align-items: center;
+  gap: 7px;
+  padding-top: 10px;
+  border-top: 1px solid var(--line);
+  flex-wrap: wrap;
+}
+
+.breakdown-part {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 4px;
+}
+
+.breakdown-character {
+  color: var(--ink);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.15rem;
+  font-weight: 900;
+}
+
+.breakdown-gloss {
+  color: var(--jade-dark);
+  font-size: 0.8rem;
+  font-weight: 750;
+}
+
+.breakdown-plus {
+  color: var(--gold);
+  font-weight: 900;
 }
 
 .primary-button {
@@ -642,13 +682,10 @@ h1 {
   }
 
   .word-card {
-    grid-template-columns: auto auto;
+    grid-template-columns: 1fr;
   }
 
-  .word-meaning {
-    grid-column: 1 / -1;
-    text-align: left;
-  }
+  .word-meaning { text-align: left; }
 }
 
 @media (prefers-reduced-motion: reduce) {
