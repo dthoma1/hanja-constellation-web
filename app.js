@@ -1,6 +1,7 @@
 const STORAGE_KEY = "hanja-constellation-web.v1";
 
 const GAME_TYPES = [
+  { id: "predict", title: "Predict the Compound", icon: "✦" },
   { id: "meaning", title: "Meaning Match", icon: "⇄" },
   { id: "builder", title: "Word Builder", icon: "字" },
   { id: "detective", title: "Hanja Detective", icon: "⌕" },
@@ -208,6 +209,18 @@ function renderGame() {
 
 function renderExercise(type) {
   const word = currentWord();
+  if (type === "predict") {
+    return `
+      <div class="predict-card">
+        <strong class="predict-term">${escapeHtml(word.term)}</strong>
+        <div class="word-breakdown predict-breakdown">
+          ${renderBreakdown(word.hanja)}
+        </div>
+      </div>
+      ${choices(stableOptions(word.meaning, state.lesson.words.map((item) => item.meaning)), word.meaning)}
+    `;
+  }
+
   if (type === "meaning") {
     return choices(stableOptions(word.meaning, state.lesson.words.map((item) => item.meaning)), word.meaning);
   }
@@ -257,6 +270,7 @@ function renderExercise(type) {
 
 function exercisePrompt(type) {
   const word = currentWord();
+  if (type === "predict") return "What does this compound probably mean?";
   if (type === "meaning") return `What does ${word.term} (${word.hanja}) mean?`;
   if (type === "builder") return `Build the Hanja for ${word.term}.`;
   if (type === "detective") return "What idea connects these words?";
@@ -328,6 +342,7 @@ function speedWord() {
 
 function correctAnswer() {
   const type = GAME_TYPES[state.step].id;
+  if (type === "predict") return currentWord().meaning;
   if (type === "meaning") return currentWord().meaning;
   if (type === "builder") return currentWord().hanja;
   if (type === "detective") return state.lesson.coreMeaning;

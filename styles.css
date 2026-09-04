@@ -332,6 +332,36 @@ h1 {
   flex-wrap: wrap;
 }
 
+.predict-card {
+  margin-bottom: 18px;
+  padding: 22px 18px;
+  border: 1px solid rgb(255 255 255 / 70%);
+  border-radius: 20px;
+  background: rgb(255 254 250 / 82%);
+  box-shadow: var(--shadow);
+  text-align: center;
+}
+
+.predict-term {
+  display: block;
+  margin-bottom: 14px;
+  font-size: 2rem;
+}
+
+.predict-breakdown {
+  justify-content: center;
+  padding-top: 0;
+  border-top: 0;
+}
+
+.predict-breakdown .breakdown-character {
+  font-size: 1.5rem;
+}
+
+.predict-breakdown .breakdown-gloss {
+  font-size: 0.95rem;
+}
+
 .breakdown-part {
   display: inline-flex;
   align-items: baseline;
