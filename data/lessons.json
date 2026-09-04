@@ -1,0 +1,5147 @@
+[
+  {
+    "character" : "大",
+    "coreMeaning" : "big; great",
+    "id" : 1,
+    "koreanName" : "큰 대",
+    "mnemonic" : "Stretch both arms wide and picture something growing large.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "大學校",
+        "meaning" : "university",
+        "sentence" : "수업에서 \"대학교\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "대학교",
+        "translation" : "In class, I learned the meaning of “대학교” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "大部分",
+        "meaning" : "most; the greater part",
+        "sentence" : "나는 새로 배운 \"대부분\"을 공책에 적어 두었다.",
+        "term" : "대부분",
+        "translation" : "I wrote the newly learned term “대부분” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "大衆",
+        "meaning" : "the general public",
+        "sentence" : "선생님은 \"대중\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "대중",
+        "translation" : "The teacher explained in detail when “대중” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "大型",
+        "meaning" : "large-sized",
+        "sentence" : "친구와 함께 \"대형\"을 활용한 문장을 만들어 보았다.",
+        "term" : "대형",
+        "translation" : "A friend and I made a sentence using “대형.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "擴大",
+        "meaning" : "enlargement; expansion",
+        "sentence" : "복습하면서 \"확대\"의 한자와 의미를 다시 확인했다.",
+        "term" : "확대",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “확대” again."
+      }
+    ]
+  },
+  {
+    "character" : "小",
+    "coreMeaning" : "small; little",
+    "id" : 2,
+    "koreanName" : "작을 소",
+    "mnemonic" : "See three tiny marks gathered into one small shape.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "小說",
+        "meaning" : "novel",
+        "sentence" : "수업에서 \"소설\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "소설",
+        "translation" : "In class, I learned the meaning of “소설” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "小規模",
+        "meaning" : "small scale",
+        "sentence" : "나는 새로 배운 \"소규모\"을 공책에 적어 두었다.",
+        "term" : "소규모",
+        "translation" : "I wrote the newly learned term “소규모” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "最小",
+        "meaning" : "minimum; smallest",
+        "sentence" : "선생님은 \"최소\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "최소",
+        "translation" : "The teacher explained in detail when “최소” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "縮小",
+        "meaning" : "reduction; downsizing",
+        "sentence" : "친구와 함께 \"축소\"을 활용한 문장을 만들어 보았다.",
+        "term" : "축소",
+        "translation" : "A friend and I made a sentence using “축소.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "小型",
+        "meaning" : "small-sized",
+        "sentence" : "복습하면서 \"소형\"의 한자와 의미를 다시 확인했다.",
+        "term" : "소형",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “소형” again."
+      }
+    ]
+  },
+  {
+    "character" : "中",
+    "coreMeaning" : "middle; center",
+    "id" : 3,
+    "koreanName" : "가운데 중",
+    "mnemonic" : "Imagine an arrow passing exactly through the center of a box.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "中國",
+        "meaning" : "China",
+        "sentence" : "수업에서 \"중국\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "중국",
+        "translation" : "In class, I learned the meaning of “중국” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "中學校",
+        "meaning" : "middle school",
+        "sentence" : "나는 새로 배운 \"중학교\"을 공책에 적어 두었다.",
+        "term" : "중학교",
+        "translation" : "I wrote the newly learned term “중학교” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "中心",
+        "meaning" : "center; core",
+        "sentence" : "선생님은 \"중심\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "중심",
+        "translation" : "The teacher explained in detail when “중심” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "中間",
+        "meaning" : "middle; in between",
+        "sentence" : "친구와 함께 \"중간\"을 활용한 문장을 만들어 보았다.",
+        "term" : "중간",
+        "translation" : "A friend and I made a sentence using “중간.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "集中",
+        "meaning" : "concentration; focus",
+        "sentence" : "복습하면서 \"집중\"의 한자와 의미를 다시 확인했다.",
+        "term" : "집중",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “집중” again."
+      }
+    ]
+  },
+  {
+    "character" : "山",
+    "coreMeaning" : "mountain",
+    "id" : 4,
+    "koreanName" : "메 산",
+    "mnemonic" : "Three rising peaks make a mountain ridge on the horizon.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "登山",
+        "meaning" : "mountain hiking",
+        "sentence" : "수업에서 \"등산\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "등산",
+        "translation" : "In class, I learned the meaning of “등산” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "山脈",
+        "meaning" : "mountain range",
+        "sentence" : "나는 새로 배운 \"산맥\"을 공책에 적어 두었다.",
+        "term" : "산맥",
+        "translation" : "I wrote the newly learned term “산맥” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "火山",
+        "meaning" : "volcano",
+        "sentence" : "선생님은 \"화산\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "화산",
+        "translation" : "The teacher explained in detail when “화산” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "山林",
+        "meaning" : "mountain forest",
+        "sentence" : "친구와 함께 \"산림\"을 활용한 문장을 만들어 보았다.",
+        "term" : "산림",
+        "translation" : "A friend and I made a sentence using “산림.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "山村",
+        "meaning" : "mountain village",
+        "sentence" : "복습하면서 \"산촌\"의 한자와 의미를 다시 확인했다.",
+        "term" : "산촌",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “산촌” again."
+      }
+    ]
+  },
+  {
+    "character" : "門",
+    "coreMeaning" : "gate; door",
+    "id" : 5,
+    "koreanName" : "문 문",
+    "mnemonic" : "The two tall sides swing open like a broad gate.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "專門",
+        "meaning" : "specialty; expertise",
+        "sentence" : "수업에서 \"전문\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "전문",
+        "translation" : "In class, I learned the meaning of “전문” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "入門",
+        "meaning" : "introduction to a field",
+        "sentence" : "나는 새로 배운 \"입문\"을 공책에 적어 두었다.",
+        "term" : "입문",
+        "translation" : "I wrote the newly learned term “입문” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "正門",
+        "meaning" : "main gate",
+        "sentence" : "선생님은 \"정문\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "정문",
+        "translation" : "The teacher explained in detail when “정문” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "部門",
+        "meaning" : "division; category",
+        "sentence" : "친구와 함께 \"부문\"을 활용한 문장을 만들어 보았다.",
+        "term" : "부문",
+        "translation" : "A friend and I made a sentence using “부문.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "門下生",
+        "meaning" : "pupil under a master",
+        "sentence" : "복습하면서 \"문하생\"의 한자와 의미를 다시 확인했다.",
+        "term" : "문하생",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “문하생” again."
+      }
+    ]
+  },
+  {
+    "character" : "入",
+    "coreMeaning" : "enter",
+    "id" : 6,
+    "koreanName" : "들 입",
+    "mnemonic" : "Two strokes narrow inward as someone enters a doorway.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "入口",
+        "meaning" : "entrance",
+        "sentence" : "수업에서 \"입구\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "입구",
+        "translation" : "In class, I learned the meaning of “입구” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "入學",
+        "meaning" : "school admission; enrollment",
+        "sentence" : "나는 새로 배운 \"입학\"을 공책에 적어 두었다.",
+        "term" : "입학",
+        "translation" : "I wrote the newly learned term “입학” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "收入",
+        "meaning" : "income",
+        "sentence" : "선생님은 \"수입\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "수입",
+        "translation" : "The teacher explained in detail when “수입” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "加入",
+        "meaning" : "joining; registration",
+        "sentence" : "친구와 함께 \"가입\"을 활용한 문장을 만들어 보았다.",
+        "term" : "가입",
+        "translation" : "A friend and I made a sentence using “가입.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "入場",
+        "meaning" : "entry; admission",
+        "sentence" : "복습하면서 \"입장\"의 한자와 의미를 다시 확인했다.",
+        "term" : "입장",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “입장” again."
+      }
+    ]
+  },
+  {
+    "character" : "出",
+    "coreMeaning" : "go out; emerge",
+    "id" : 7,
+    "koreanName" : "날 출",
+    "mnemonic" : "A sprout pushes out through two layers of soil.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "出口",
+        "meaning" : "exit",
+        "sentence" : "수업에서 \"출구\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "출구",
+        "translation" : "In class, I learned the meaning of “출구” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "出發",
+        "meaning" : "departure",
+        "sentence" : "나는 새로 배운 \"출발\"을 공책에 적어 두었다.",
+        "term" : "출발",
+        "translation" : "I wrote the newly learned term “출발” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "外出",
+        "meaning" : "going out",
+        "sentence" : "선생님은 \"외출\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "외출",
+        "translation" : "The teacher explained in detail when “외출” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "輸出",
+        "meaning" : "export",
+        "sentence" : "친구와 함께 \"수출\"을 활용한 문장을 만들어 보았다.",
+        "term" : "수출",
+        "translation" : "A friend and I made a sentence using “수출.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "出席",
+        "meaning" : "attendance",
+        "sentence" : "복습하면서 \"출석\"의 한자와 의미를 다시 확인했다.",
+        "term" : "출석",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “출석” again."
+      }
+    ]
+  },
+  {
+    "character" : "口",
+    "coreMeaning" : "mouth; opening",
+    "id" : 8,
+    "koreanName" : "입 구",
+    "mnemonic" : "A square opening looks like a mouth ready to speak.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "人口",
+        "meaning" : "population",
+        "sentence" : "수업에서 \"인구\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "인구",
+        "translation" : "In class, I learned the meaning of “인구” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "口頭",
+        "meaning" : "oral; verbal",
+        "sentence" : "나는 새로 배운 \"구두\"을 공책에 적어 두었다.",
+        "term" : "구두",
+        "translation" : "I wrote the newly learned term “구두” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "口號",
+        "meaning" : "slogan; chant",
+        "sentence" : "선생님은 \"구호\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "구호",
+        "translation" : "The teacher explained in detail when “구호” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "入口",
+        "meaning" : "entrance",
+        "sentence" : "친구와 함께 \"입구\"을 활용한 문장을 만들어 보았다.",
+        "term" : "입구",
+        "translation" : "A friend and I made a sentence using “입구.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "出口",
+        "meaning" : "exit",
+        "sentence" : "복습하면서 \"출구\"의 한자와 의미를 다시 확인했다.",
+        "term" : "출구",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “출구” again."
+      }
+    ]
+  },
+  {
+    "character" : "上",
+    "coreMeaning" : "up; above",
+    "id" : 9,
+    "koreanName" : "윗 상",
+    "mnemonic" : "A short mark sits above the baseline, pointing upward.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "以上",
+        "meaning" : "at least; above",
+        "sentence" : "수업에서 \"이상\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "이상",
+        "translation" : "In class, I learned the meaning of “이상” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "上半期",
+        "meaning" : "first half of the year",
+        "sentence" : "나는 새로 배운 \"상반기\"을 공책에 적어 두었다.",
+        "term" : "상반기",
+        "translation" : "I wrote the newly learned term “상반기” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "地上",
+        "meaning" : "above ground",
+        "sentence" : "선생님은 \"지상\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "지상",
+        "translation" : "The teacher explained in detail when “지상” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "上昇",
+        "meaning" : "rise; increase",
+        "sentence" : "친구와 함께 \"상승\"을 활용한 문장을 만들어 보았다.",
+        "term" : "상승",
+        "translation" : "A friend and I made a sentence using “상승.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "上級",
+        "meaning" : "advanced level",
+        "sentence" : "복습하면서 \"상급\"의 한자와 의미를 다시 확인했다.",
+        "term" : "상급",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “상급” again."
+      }
+    ]
+  },
+  {
+    "character" : "下",
+    "coreMeaning" : "down; below",
+    "id" : 10,
+    "koreanName" : "아래 하",
+    "mnemonic" : "A hanging stroke drops below the baseline.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "以下",
+        "meaning" : "at most; below",
+        "sentence" : "수업에서 \"이하\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "이하",
+        "translation" : "In class, I learned the meaning of “이하” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "下半期",
+        "meaning" : "second half of the year",
+        "sentence" : "나는 새로 배운 \"하반기\"을 공책에 적어 두었다.",
+        "term" : "하반기",
+        "translation" : "I wrote the newly learned term “하반기” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "地下",
+        "meaning" : "underground; basement",
+        "sentence" : "선생님은 \"지하\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "지하",
+        "translation" : "The teacher explained in detail when “지하” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "下落",
+        "meaning" : "fall; decline",
+        "sentence" : "친구와 함께 \"하락\"을 활용한 문장을 만들어 보았다.",
+        "term" : "하락",
+        "translation" : "A friend and I made a sentence using “하락.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "下級",
+        "meaning" : "lower level",
+        "sentence" : "복습하면서 \"하급\"의 한자와 의미를 다시 확인했다.",
+        "term" : "하급",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “하급” again."
+      }
+    ]
+  },
+  {
+    "character" : "日",
+    "coreMeaning" : "sun; day",
+    "id" : 11,
+    "koreanName" : "날 일",
+    "mnemonic" : "A bright sun is framed like a daily window of light.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "日曜日",
+        "meaning" : "Sunday",
+        "sentence" : "수업에서 \"일요일\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "일요일",
+        "translation" : "In class, I learned the meaning of “일요일” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "每日",
+        "meaning" : "every day",
+        "sentence" : "나는 새로 배운 \"매일\"을 공책에 적어 두었다.",
+        "term" : "매일",
+        "translation" : "I wrote the newly learned term “매일” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "生日",
+        "meaning" : "birthday",
+        "sentence" : "선생님은 \"생일\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "생일",
+        "translation" : "The teacher explained in detail when “생일” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "休日",
+        "meaning" : "holiday; day off",
+        "sentence" : "친구와 함께 \"휴일\"을 활용한 문장을 만들어 보았다.",
+        "term" : "휴일",
+        "translation" : "A friend and I made a sentence using “휴일.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "日記",
+        "meaning" : "diary",
+        "sentence" : "복습하면서 \"일기\"의 한자와 의미를 다시 확인했다.",
+        "term" : "일기",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “일기” again."
+      }
+    ]
+  },
+  {
+    "character" : "月",
+    "coreMeaning" : "moon; month",
+    "id" : 12,
+    "koreanName" : "달 월",
+    "mnemonic" : "The curved moon marks the passing of each month.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "月曜日",
+        "meaning" : "Monday",
+        "sentence" : "수업에서 \"월요일\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "월요일",
+        "translation" : "In class, I learned the meaning of “월요일” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "每月",
+        "meaning" : "every month",
+        "sentence" : "나는 새로 배운 \"매월\"을 공책에 적어 두었다.",
+        "term" : "매월",
+        "translation" : "I wrote the newly learned term “매월” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "歲月",
+        "meaning" : "passing years; time",
+        "sentence" : "선생님은 \"세월\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "세월",
+        "translation" : "The teacher explained in detail when “세월” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "月給",
+        "meaning" : "monthly salary",
+        "sentence" : "친구와 함께 \"월급\"을 활용한 문장을 만들어 보았다.",
+        "term" : "월급",
+        "translation" : "A friend and I made a sentence using “월급.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "月末",
+        "meaning" : "end of the month",
+        "sentence" : "복습하면서 \"월말\"의 한자와 의미를 다시 확인했다.",
+        "term" : "월말",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “월말” again."
+      }
+    ]
+  },
+  {
+    "character" : "年",
+    "coreMeaning" : "year",
+    "id" : 13,
+    "koreanName" : "해 년",
+    "mnemonic" : "Picture a harvest carried home once every year.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "今年",
+        "meaning" : "this year",
+        "sentence" : "수업에서 \"금년\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "금년",
+        "translation" : "In class, I learned the meaning of “금년” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "來年",
+        "meaning" : "next year",
+        "sentence" : "나는 새로 배운 \"내년\"을 공책에 적어 두었다.",
+        "term" : "내년",
+        "translation" : "I wrote the newly learned term “내년” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "昨年",
+        "meaning" : "last year",
+        "sentence" : "선생님은 \"작년\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "작년",
+        "translation" : "The teacher explained in detail when “작년” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "學年",
+        "meaning" : "school year; grade",
+        "sentence" : "친구와 함께 \"학년\"을 활용한 문장을 만들어 보았다.",
+        "term" : "학년",
+        "translation" : "A friend and I made a sentence using “학년.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "年間",
+        "meaning" : "annual; over a year",
+        "sentence" : "복습하면서 \"연간\"의 한자와 의미를 다시 확인했다.",
+        "term" : "연간",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “연간” again."
+      }
+    ]
+  },
+  {
+    "character" : "內",
+    "coreMeaning" : "inside",
+    "id" : 14,
+    "koreanName" : "안 내",
+    "mnemonic" : "An object is tucked safely inside an enclosing frame.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "國內",
+        "meaning" : "domestic; within the country",
+        "sentence" : "수업에서 \"국내\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "국내",
+        "translation" : "In class, I learned the meaning of “국내” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "室內",
+        "meaning" : "indoors",
+        "sentence" : "나는 새로 배운 \"실내\"을 공책에 적어 두었다.",
+        "term" : "실내",
+        "translation" : "I wrote the newly learned term “실내” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "內容",
+        "meaning" : "contents; substance",
+        "sentence" : "선생님은 \"내용\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "내용",
+        "translation" : "The teacher explained in detail when “내용” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "案內",
+        "meaning" : "guidance; information",
+        "sentence" : "친구와 함께 \"안내\"을 활용한 문장을 만들어 보았다.",
+        "term" : "안내",
+        "translation" : "A friend and I made a sentence using “안내.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "內科",
+        "meaning" : "internal medicine",
+        "sentence" : "복습하면서 \"내과\"의 한자와 의미를 다시 확인했다.",
+        "term" : "내과",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “내과” again."
+      }
+    ]
+  },
+  {
+    "character" : "外",
+    "coreMeaning" : "outside",
+    "id" : 15,
+    "koreanName" : "바깥 외",
+    "mnemonic" : "A foot steps beyond the boundary and moves outside.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "外國",
+        "meaning" : "foreign country",
+        "sentence" : "수업에서 \"외국\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "외국",
+        "translation" : "In class, I learned the meaning of “외국” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "外出",
+        "meaning" : "going out",
+        "sentence" : "나는 새로 배운 \"외출\"을 공책에 적어 두었다.",
+        "term" : "외출",
+        "translation" : "I wrote the newly learned term “외출” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "外部",
+        "meaning" : "exterior; outside",
+        "sentence" : "선생님은 \"외부\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "외부",
+        "translation" : "The teacher explained in detail when “외부” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "例外",
+        "meaning" : "exception",
+        "sentence" : "친구와 함께 \"예외\"을 활용한 문장을 만들어 보았다.",
+        "term" : "예외",
+        "translation" : "A friend and I made a sentence using “예외.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "外交",
+        "meaning" : "diplomacy",
+        "sentence" : "복습하면서 \"외교\"의 한자와 의미를 다시 확인했다.",
+        "term" : "외교",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “외교” again."
+      }
+    ]
+  },
+  {
+    "character" : "人",
+    "coreMeaning" : "person",
+    "id" : 16,
+    "koreanName" : "사람 인",
+    "mnemonic" : "Two leaning strokes balance like a person walking.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "人間",
+        "meaning" : "human being; humankind",
+        "sentence" : "수업에서 \"인간\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "인간",
+        "translation" : "In class, I learned the meaning of “인간” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "人口",
+        "meaning" : "population",
+        "sentence" : "나는 새로 배운 \"인구\"을 공책에 적어 두었다.",
+        "term" : "인구",
+        "translation" : "I wrote the newly learned term “인구” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "個人",
+        "meaning" : "individual; personal",
+        "sentence" : "선생님은 \"개인\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "개인",
+        "translation" : "The teacher explained in detail when “개인” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "主人",
+        "meaning" : "owner; host",
+        "sentence" : "친구와 함께 \"주인\"을 활용한 문장을 만들어 보았다.",
+        "term" : "주인",
+        "translation" : "A friend and I made a sentence using “주인.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "人生",
+        "meaning" : "human life",
+        "sentence" : "복습하면서 \"인생\"의 한자와 의미를 다시 확인했다.",
+        "term" : "인생",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “인생” again."
+      }
+    ]
+  },
+  {
+    "character" : "子",
+    "coreMeaning" : "child; son",
+    "id" : 17,
+    "koreanName" : "아들 자",
+    "mnemonic" : "A bundled child stretches both arms outward.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "子女",
+        "meaning" : "children; sons and daughters",
+        "sentence" : "수업에서 \"자녀\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "자녀",
+        "translation" : "In class, I learned the meaning of “자녀” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "王子",
+        "meaning" : "prince",
+        "sentence" : "나는 새로 배운 \"왕자\"을 공책에 적어 두었다.",
+        "term" : "왕자",
+        "translation" : "I wrote the newly learned term “왕자” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "電子",
+        "meaning" : "electron; electronic",
+        "sentence" : "선생님은 \"전자\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "전자",
+        "translation" : "The teacher explained in detail when “전자” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "菓子",
+        "meaning" : "snack; confectionery",
+        "sentence" : "친구와 함께 \"과자\"을 활용한 문장을 만들어 보았다.",
+        "term" : "과자",
+        "translation" : "A friend and I made a sentence using “과자.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "子息",
+        "meaning" : "child; offspring",
+        "sentence" : "복습하면서 \"자식\"의 한자와 의미를 다시 확인했다.",
+        "term" : "자식",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “자식” again."
+      }
+    ]
+  },
+  {
+    "character" : "父",
+    "coreMeaning" : "father",
+    "id" : 18,
+    "koreanName" : "아버지 부",
+    "mnemonic" : "A hand raises a tool like a protective father at work.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "父親",
+        "meaning" : "father (honorific)",
+        "sentence" : "수업에서 \"부친\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "부친",
+        "translation" : "In class, I learned the meaning of “부친” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "父子",
+        "meaning" : "father and son",
+        "sentence" : "나는 새로 배운 \"부자\"을 공책에 적어 두었다.",
+        "term" : "부자",
+        "translation" : "I wrote the newly learned term “부자” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "神父",
+        "meaning" : "Catholic priest",
+        "sentence" : "선생님은 \"신부\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "신부",
+        "translation" : "The teacher explained in detail when “신부” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "祖父",
+        "meaning" : "grandfather",
+        "sentence" : "친구와 함께 \"조부\"을 활용한 문장을 만들어 보았다.",
+        "term" : "조부",
+        "translation" : "A friend and I made a sentence using “조부.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "養父",
+        "meaning" : "adoptive father",
+        "sentence" : "복습하면서 \"양부\"의 한자와 의미를 다시 확인했다.",
+        "term" : "양부",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “양부” again."
+      }
+    ]
+  },
+  {
+    "character" : "母",
+    "coreMeaning" : "mother",
+    "id" : 19,
+    "koreanName" : "어머니 모",
+    "mnemonic" : "Two dots rest inside a form that shelters like a mother.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "母親",
+        "meaning" : "mother (honorific)",
+        "sentence" : "수업에서 \"모친\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "모친",
+        "translation" : "In class, I learned the meaning of “모친” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "父母",
+        "meaning" : "parents",
+        "sentence" : "나는 새로 배운 \"부모\"을 공책에 적어 두었다.",
+        "term" : "부모",
+        "translation" : "I wrote the newly learned term “부모” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "母國",
+        "meaning" : "mother country; homeland",
+        "sentence" : "선생님은 \"모국\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "모국",
+        "translation" : "The teacher explained in detail when “모국” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "祖母",
+        "meaning" : "grandmother",
+        "sentence" : "친구와 함께 \"조모\"을 활용한 문장을 만들어 보았다.",
+        "term" : "조모",
+        "translation" : "A friend and I made a sentence using “조모.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "母校",
+        "meaning" : "one's former school; alma mater",
+        "sentence" : "복습하면서 \"모교\"의 한자와 의미를 다시 확인했다.",
+        "term" : "모교",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “모교” again."
+      }
+    ]
+  },
+  {
+    "character" : "男",
+    "coreMeaning" : "man; male",
+    "id" : 20,
+    "koreanName" : "사내 남",
+    "mnemonic" : "Strength works beneath a field, an old image for a man.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "男子",
+        "meaning" : "man; male",
+        "sentence" : "수업에서 \"남자\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "남자",
+        "translation" : "In class, I learned the meaning of “남자” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "長男",
+        "meaning" : "eldest son",
+        "sentence" : "나는 새로 배운 \"장남\"을 공책에 적어 두었다.",
+        "term" : "장남",
+        "translation" : "I wrote the newly learned term “장남” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "男性",
+        "meaning" : "male; masculinity",
+        "sentence" : "선생님은 \"남성\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "남성",
+        "translation" : "The teacher explained in detail when “남성” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "男女",
+        "meaning" : "men and women",
+        "sentence" : "친구와 함께 \"남녀\"을 활용한 문장을 만들어 보았다.",
+        "term" : "남녀",
+        "translation" : "A friend and I made a sentence using “남녀.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "次男",
+        "meaning" : "second son",
+        "sentence" : "복습하면서 \"차남\"의 한자와 의미를 다시 확인했다.",
+        "term" : "차남",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “차남” again."
+      }
+    ]
+  },
+  {
+    "character" : "女",
+    "coreMeaning" : "woman; female",
+    "id" : 21,
+    "koreanName" : "여자 녀",
+    "mnemonic" : "A seated figure forms the traditional sign for woman.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "女子",
+        "meaning" : "woman; female",
+        "sentence" : "수업에서 \"여자\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "여자",
+        "translation" : "In class, I learned the meaning of “여자” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "女性",
+        "meaning" : "woman; female gender",
+        "sentence" : "나는 새로 배운 \"여성\"을 공책에 적어 두었다.",
+        "term" : "여성",
+        "translation" : "I wrote the newly learned term “여성” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "子女",
+        "meaning" : "children; sons and daughters",
+        "sentence" : "선생님은 \"자녀\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "자녀",
+        "translation" : "The teacher explained in detail when “자녀” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "男女",
+        "meaning" : "men and women",
+        "sentence" : "친구와 함께 \"남녀\"을 활용한 문장을 만들어 보았다.",
+        "term" : "남녀",
+        "translation" : "A friend and I made a sentence using “남녀.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "長女",
+        "meaning" : "eldest daughter",
+        "sentence" : "복습하면서 \"장녀\"의 한자와 의미를 다시 확인했다.",
+        "term" : "장녀",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “장녀” again."
+      }
+    ]
+  },
+  {
+    "character" : "一",
+    "coreMeaning" : "one",
+    "id" : 22,
+    "koreanName" : "한 일",
+    "mnemonic" : "One clean horizontal line stands for a single unit.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "一月",
+        "meaning" : "January",
+        "sentence" : "수업에서 \"일월\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "일월",
+        "translation" : "In class, I learned the meaning of “일월” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "一年",
+        "meaning" : "one year",
+        "sentence" : "나는 새로 배운 \"일년\"을 공책에 적어 두었다.",
+        "term" : "일년",
+        "translation" : "I wrote the newly learned term “일년” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "一等",
+        "meaning" : "first place; first class",
+        "sentence" : "선생님은 \"일등\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "일등",
+        "translation" : "The teacher explained in detail when “일등” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "一致",
+        "meaning" : "agreement; match",
+        "sentence" : "친구와 함께 \"일치\"을 활용한 문장을 만들어 보았다.",
+        "term" : "일치",
+        "translation" : "A friend and I made a sentence using “일치.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "統一",
+        "meaning" : "unification",
+        "sentence" : "복습하면서 \"통일\"의 한자와 의미를 다시 확인했다.",
+        "term" : "통일",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “통일” again."
+      }
+    ]
+  },
+  {
+    "character" : "二",
+    "coreMeaning" : "two",
+    "id" : 23,
+    "koreanName" : "두 이",
+    "mnemonic" : "Two parallel lines make an unmistakable pair.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "二月",
+        "meaning" : "February",
+        "sentence" : "수업에서 \"이월\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "이월",
+        "translation" : "In class, I learned the meaning of “이월” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "二等",
+        "meaning" : "second place; second class",
+        "sentence" : "나는 새로 배운 \"이등\"을 공책에 적어 두었다.",
+        "term" : "이등",
+        "translation" : "I wrote the newly learned term “이등” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "二重",
+        "meaning" : "double; dual",
+        "sentence" : "선생님은 \"이중\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "이중",
+        "translation" : "The teacher explained in detail when “이중” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "二次",
+        "meaning" : "secondary; second round",
+        "sentence" : "친구와 함께 \"이차\"을 활용한 문장을 만들어 보았다.",
+        "term" : "이차",
+        "translation" : "A friend and I made a sentence using “이차.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "二分法",
+        "meaning" : "dichotomy; binary division",
+        "sentence" : "복습하면서 \"이분법\"의 한자와 의미를 다시 확인했다.",
+        "term" : "이분법",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “이분법” again."
+      }
+    ]
+  },
+  {
+    "character" : "三",
+    "coreMeaning" : "three",
+    "id" : 24,
+    "koreanName" : "석 삼",
+    "mnemonic" : "Three stacked lines count steadily to three.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "三月",
+        "meaning" : "March",
+        "sentence" : "수업에서 \"삼월\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "삼월",
+        "translation" : "In class, I learned the meaning of “삼월” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "三角形",
+        "meaning" : "triangle",
+        "sentence" : "나는 새로 배운 \"삼각형\"을 공책에 적어 두었다.",
+        "term" : "삼각형",
+        "translation" : "I wrote the newly learned term “삼각형” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "三十",
+        "meaning" : "thirty",
+        "sentence" : "선생님은 \"삼십\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "삼십",
+        "translation" : "The teacher explained in detail when “삼십” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "三國",
+        "meaning" : "three kingdoms; three countries",
+        "sentence" : "친구와 함께 \"삼국\"을 활용한 문장을 만들어 보았다.",
+        "term" : "삼국",
+        "translation" : "A friend and I made a sentence using “삼국.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "三人組",
+        "meaning" : "trio; group of three",
+        "sentence" : "복습하면서 \"삼인조\"의 한자와 의미를 다시 확인했다.",
+        "term" : "삼인조",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “삼인조” again."
+      }
+    ]
+  },
+  {
+    "character" : "四",
+    "coreMeaning" : "four",
+    "id" : 25,
+    "koreanName" : "넉 사",
+    "mnemonic" : "Four directions are gathered inside a square boundary.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "四月",
+        "meaning" : "April",
+        "sentence" : "수업에서 \"사월\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "사월",
+        "translation" : "In class, I learned the meaning of “사월” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "四季節",
+        "meaning" : "four seasons",
+        "sentence" : "나는 새로 배운 \"사계절\"을 공책에 적어 두었다.",
+        "term" : "사계절",
+        "translation" : "I wrote the newly learned term “사계절” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "四方",
+        "meaning" : "all four directions",
+        "sentence" : "선생님은 \"사방\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "사방",
+        "translation" : "The teacher explained in detail when “사방” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "四角形",
+        "meaning" : "quadrilateral; rectangle",
+        "sentence" : "친구와 함께 \"사각형\"을 활용한 문장을 만들어 보았다.",
+        "term" : "사각형",
+        "translation" : "A friend and I made a sentence using “사각형.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "四寸",
+        "meaning" : "cousin",
+        "sentence" : "복습하면서 \"사촌\"의 한자와 의미를 다시 확인했다.",
+        "term" : "사촌",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “사촌” again."
+      }
+    ]
+  },
+  {
+    "character" : "五",
+    "coreMeaning" : "five",
+    "id" : 26,
+    "koreanName" : "다섯 오",
+    "mnemonic" : "Crossed lines hold five points in balanced order.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "五月",
+        "meaning" : "May",
+        "sentence" : "수업에서 \"오월\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "오월",
+        "translation" : "In class, I learned the meaning of “오월” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "五感",
+        "meaning" : "five senses",
+        "sentence" : "나는 새로 배운 \"오감\"을 공책에 적어 두었다.",
+        "term" : "오감",
+        "translation" : "I wrote the newly learned term “오감” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "五大洋",
+        "meaning" : "five oceans",
+        "sentence" : "선생님은 \"오대양\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "오대양",
+        "translation" : "The teacher explained in detail when “오대양” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "五十",
+        "meaning" : "fifty",
+        "sentence" : "친구와 함께 \"오십\"을 활용한 문장을 만들어 보았다.",
+        "term" : "오십",
+        "translation" : "A friend and I made a sentence using “오십.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "五角形",
+        "meaning" : "pentagon",
+        "sentence" : "복습하면서 \"오각형\"의 한자와 의미를 다시 확인했다.",
+        "term" : "오각형",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “오각형” again."
+      }
+    ]
+  },
+  {
+    "character" : "六",
+    "coreMeaning" : "six",
+    "id" : 27,
+    "koreanName" : "여섯 육",
+    "mnemonic" : "A roof shelters four lower points, making six in all.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "六月",
+        "meaning" : "June",
+        "sentence" : "수업에서 \"유월\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "유월",
+        "translation" : "In class, I learned the meaning of “유월” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "六十",
+        "meaning" : "sixty",
+        "sentence" : "나는 새로 배운 \"육십\"을 공책에 적어 두었다.",
+        "term" : "육십",
+        "translation" : "I wrote the newly learned term “육십” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "六角形",
+        "meaning" : "hexagon",
+        "sentence" : "선생님은 \"육각형\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "육각형",
+        "translation" : "The teacher explained in detail when “육각형” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "六大洲",
+        "meaning" : "six inhabited continents",
+        "sentence" : "친구와 함께 \"육대주\"을 활용한 문장을 만들어 보았다.",
+        "term" : "육대주",
+        "translation" : "A friend and I made a sentence using “육대주.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "六面體",
+        "meaning" : "hexahedron; six-faced solid",
+        "sentence" : "복습하면서 \"육면체\"의 한자와 의미를 다시 확인했다.",
+        "term" : "육면체",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “육면체” again."
+      }
+    ]
+  },
+  {
+    "character" : "七",
+    "coreMeaning" : "seven",
+    "id" : 28,
+    "koreanName" : "일곱 칠",
+    "mnemonic" : "A bent stroke cuts across a line to mark seven.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "七月",
+        "meaning" : "July",
+        "sentence" : "수업에서 \"칠월\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "칠월",
+        "translation" : "In class, I learned the meaning of “칠월” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "七十",
+        "meaning" : "seventy",
+        "sentence" : "나는 새로 배운 \"칠십\"을 공책에 적어 두었다.",
+        "term" : "칠십",
+        "translation" : "I wrote the newly learned term “칠십” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "七角形",
+        "meaning" : "heptagon",
+        "sentence" : "선생님은 \"칠각형\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "칠각형",
+        "translation" : "The teacher explained in detail when “칠각형” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "七大陸",
+        "meaning" : "seven continents",
+        "sentence" : "친구와 함께 \"칠대륙\"을 활용한 문장을 만들어 보았다.",
+        "term" : "칠대륙",
+        "translation" : "A friend and I made a sentence using “칠대륙.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "七層",
+        "meaning" : "seventh floor; seven stories",
+        "sentence" : "복습하면서 \"칠층\"의 한자와 의미를 다시 확인했다.",
+        "term" : "칠층",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “칠층” again."
+      }
+    ]
+  },
+  {
+    "character" : "八",
+    "coreMeaning" : "eight",
+    "id" : 29,
+    "koreanName" : "여덟 팔",
+    "mnemonic" : "Two strokes spread apart as eight opens outward.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "八月",
+        "meaning" : "August",
+        "sentence" : "수업에서 \"팔월\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "팔월",
+        "translation" : "In class, I learned the meaning of “팔월” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "八十",
+        "meaning" : "eighty",
+        "sentence" : "나는 새로 배운 \"팔십\"을 공책에 적어 두었다.",
+        "term" : "팔십",
+        "translation" : "I wrote the newly learned term “팔십” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "八角形",
+        "meaning" : "octagon",
+        "sentence" : "선생님은 \"팔각형\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "팔각형",
+        "translation" : "The teacher explained in detail when “팔각형” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "八方",
+        "meaning" : "all directions",
+        "sentence" : "친구와 함께 \"팔방\"을 활용한 문장을 만들어 보았다.",
+        "term" : "팔방",
+        "translation" : "A friend and I made a sentence using “팔방.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "八强",
+        "meaning" : "final eight; quarterfinalists",
+        "sentence" : "복습하면서 \"팔강\"의 한자와 의미를 다시 확인했다.",
+        "term" : "팔강",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “팔강” again."
+      }
+    ]
+  },
+  {
+    "character" : "九",
+    "coreMeaning" : "nine",
+    "id" : 30,
+    "koreanName" : "아홉 구",
+    "mnemonic" : "A curved hook gathers the count just before ten.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "九月",
+        "meaning" : "September",
+        "sentence" : "수업에서 \"구월\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "구월",
+        "translation" : "In class, I learned the meaning of “구월” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "九十",
+        "meaning" : "ninety",
+        "sentence" : "나는 새로 배운 \"구십\"을 공책에 적어 두었다.",
+        "term" : "구십",
+        "translation" : "I wrote the newly learned term “구십” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "九十九",
+        "meaning" : "ninety-nine",
+        "sentence" : "선생님은 \"구십구\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "구십구",
+        "translation" : "The teacher explained in detail when “구십구” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "九回末",
+        "meaning" : "bottom of the ninth inning",
+        "sentence" : "친구와 함께 \"구회말\"을 활용한 문장을 만들어 보았다.",
+        "term" : "구회말",
+        "translation" : "A friend and I made a sentence using “구회말.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "九人組",
+        "meaning" : "group of nine",
+        "sentence" : "복습하면서 \"구인조\"의 한자와 의미를 다시 확인했다.",
+        "term" : "구인조",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “구인조” again."
+      }
+    ]
+  },
+  {
+    "character" : "十",
+    "coreMeaning" : "ten",
+    "id" : 31,
+    "koreanName" : "열 십",
+    "mnemonic" : "Two crossing strokes make a complete count of ten.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "十月",
+        "meaning" : "October",
+        "sentence" : "수업에서 \"십월\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "십월",
+        "translation" : "In class, I learned the meaning of “십월” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "十代",
+        "meaning" : "teenage years; teens",
+        "sentence" : "나는 새로 배운 \"십대\"을 공책에 적어 두었다.",
+        "term" : "십대",
+        "translation" : "I wrote the newly learned term “십대” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "十分",
+        "meaning" : "ten minutes",
+        "sentence" : "선생님은 \"십분\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "십분",
+        "translation" : "The teacher explained in detail when “십분” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "十字",
+        "meaning" : "cross shape",
+        "sentence" : "친구와 함께 \"십자\"을 활용한 문장을 만들어 보았다.",
+        "term" : "십자",
+        "translation" : "A friend and I made a sentence using “십자.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "數十",
+        "meaning" : "dozens; several tens",
+        "sentence" : "복습하면서 \"수십\"의 한자와 의미를 다시 확인했다.",
+        "term" : "수십",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “수십” again."
+      }
+    ]
+  },
+  {
+    "character" : "東",
+    "coreMeaning" : "east",
+    "id" : 32,
+    "koreanName" : "동녘 동",
+    "mnemonic" : "Picture the sun rising through a tree in the east.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "東洋",
+        "meaning" : "the East; Asia",
+        "sentence" : "수업에서 \"동양\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "동양",
+        "translation" : "In class, I learned the meaning of “동양” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "東部",
+        "meaning" : "eastern region",
+        "sentence" : "나는 새로 배운 \"동부\"을 공책에 적어 두었다.",
+        "term" : "동부",
+        "translation" : "I wrote the newly learned term “동부” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "東海",
+        "meaning" : "East Sea",
+        "sentence" : "선생님은 \"동해\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "동해",
+        "translation" : "The teacher explained in detail when “동해” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "極東",
+        "meaning" : "Far East",
+        "sentence" : "친구와 함께 \"극동\"을 활용한 문장을 만들어 보았다.",
+        "term" : "극동",
+        "translation" : "A friend and I made a sentence using “극동.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "東大門",
+        "meaning" : "Dongdaemun; east gate",
+        "sentence" : "복습하면서 \"동대문\"의 한자와 의미를 다시 확인했다.",
+        "term" : "동대문",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “동대문” again."
+      }
+    ]
+  },
+  {
+    "character" : "西",
+    "coreMeaning" : "west",
+    "id" : 33,
+    "koreanName" : "서녘 서",
+    "mnemonic" : "The setting sun settles into a basket in the west.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "西洋",
+        "meaning" : "the West; Western world",
+        "sentence" : "수업에서 \"서양\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "서양",
+        "translation" : "In class, I learned the meaning of “서양” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "西部",
+        "meaning" : "western region",
+        "sentence" : "나는 새로 배운 \"서부\"을 공책에 적어 두었다.",
+        "term" : "서부",
+        "translation" : "I wrote the newly learned term “서부” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "西海",
+        "meaning" : "West Sea; Yellow Sea",
+        "sentence" : "선생님은 \"서해\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "서해",
+        "translation" : "The teacher explained in detail when “서해” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "西大門",
+        "meaning" : "Seodaemun; west gate",
+        "sentence" : "친구와 함께 \"서대문\"을 활용한 문장을 만들어 보았다.",
+        "term" : "서대문",
+        "translation" : "A friend and I made a sentence using “서대문.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "東西",
+        "meaning" : "east and west",
+        "sentence" : "복습하면서 \"동서\"의 한자와 의미를 다시 확인했다.",
+        "term" : "동서",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “동서” again."
+      }
+    ]
+  },
+  {
+    "character" : "北",
+    "coreMeaning" : "north",
+    "id" : 34,
+    "koreanName" : "북녘 북",
+    "mnemonic" : "Two figures turn back-to-back and point northward.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "北韓",
+        "meaning" : "North Korea",
+        "sentence" : "수업에서 \"북한\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "북한",
+        "translation" : "In class, I learned the meaning of “북한” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "北部",
+        "meaning" : "northern region",
+        "sentence" : "나는 새로 배운 \"북부\"을 공책에 적어 두었다.",
+        "term" : "북부",
+        "translation" : "I wrote the newly learned term “북부” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "北極",
+        "meaning" : "North Pole; Arctic",
+        "sentence" : "선생님은 \"북극\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "북극",
+        "translation" : "The teacher explained in detail when “북극” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "北美",
+        "meaning" : "North America",
+        "sentence" : "친구와 함께 \"북미\"을 활용한 문장을 만들어 보았다.",
+        "term" : "북미",
+        "translation" : "A friend and I made a sentence using “북미.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "江北",
+        "meaning" : "area north of a river; Gangbuk",
+        "sentence" : "복습하면서 \"강북\"의 한자와 의미를 다시 확인했다.",
+        "term" : "강북",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “강북” again."
+      }
+    ]
+  },
+  {
+    "character" : "南",
+    "coreMeaning" : "south",
+    "id" : 35,
+    "koreanName" : "남녘 남",
+    "mnemonic" : "A warm southern breeze passes through a hanging frame.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "南韓",
+        "meaning" : "South Korea",
+        "sentence" : "수업에서 \"남한\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "남한",
+        "translation" : "In class, I learned the meaning of “남한” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "南部",
+        "meaning" : "southern region",
+        "sentence" : "나는 새로 배운 \"남부\"을 공책에 적어 두었다.",
+        "term" : "남부",
+        "translation" : "I wrote the newly learned term “남부” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "南極",
+        "meaning" : "South Pole; Antarctic",
+        "sentence" : "선생님은 \"남극\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "남극",
+        "translation" : "The teacher explained in detail when “남극” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "南美",
+        "meaning" : "South America",
+        "sentence" : "친구와 함께 \"남미\"을 활용한 문장을 만들어 보았다.",
+        "term" : "남미",
+        "translation" : "A friend and I made a sentence using “남미.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "江南",
+        "meaning" : "area south of a river; Gangnam",
+        "sentence" : "복습하면서 \"강남\"의 한자와 의미를 다시 확인했다.",
+        "term" : "강남",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “강남” again."
+      }
+    ]
+  },
+  {
+    "character" : "王",
+    "coreMeaning" : "king",
+    "id" : 36,
+    "koreanName" : "임금 왕",
+    "mnemonic" : "Three realms joined by one line belong to a king.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "王子",
+        "meaning" : "prince",
+        "sentence" : "수업에서 \"왕자\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "왕자",
+        "translation" : "In class, I learned the meaning of “왕자” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "王妃",
+        "meaning" : "queen; royal consort",
+        "sentence" : "나는 새로 배운 \"왕비\"을 공책에 적어 두었다.",
+        "term" : "왕비",
+        "translation" : "I wrote the newly learned term “왕비” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "國王",
+        "meaning" : "king; monarch",
+        "sentence" : "선생님은 \"국왕\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "국왕",
+        "translation" : "The teacher explained in detail when “국왕” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "帝王",
+        "meaning" : "emperor or sovereign",
+        "sentence" : "친구와 함께 \"제왕\"을 활용한 문장을 만들어 보았다.",
+        "term" : "제왕",
+        "translation" : "A friend and I made a sentence using “제왕.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "王室",
+        "meaning" : "royal family; royal household",
+        "sentence" : "복습하면서 \"왕실\"의 한자와 의미를 다시 확인했다.",
+        "term" : "왕실",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “왕실” again."
+      }
+    ]
+  },
+  {
+    "character" : "天",
+    "coreMeaning" : "sky; heaven",
+    "id" : 37,
+    "koreanName" : "하늘 천",
+    "mnemonic" : "A great figure stretches beneath the open sky.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "天國",
+        "meaning" : "heaven; paradise",
+        "sentence" : "수업에서 \"천국\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "천국",
+        "translation" : "In class, I learned the meaning of “천국” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "天才",
+        "meaning" : "genius",
+        "sentence" : "나는 새로 배운 \"천재\"을 공책에 적어 두었다.",
+        "term" : "천재",
+        "translation" : "I wrote the newly learned term “천재” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "天文學",
+        "meaning" : "astronomy",
+        "sentence" : "선생님은 \"천문학\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "천문학",
+        "translation" : "The teacher explained in detail when “천문학” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "天然",
+        "meaning" : "natural",
+        "sentence" : "친구와 함께 \"천연\"을 활용한 문장을 만들어 보았다.",
+        "term" : "천연",
+        "translation" : "A friend and I made a sentence using “천연.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "天下",
+        "meaning" : "the whole world; under heaven",
+        "sentence" : "복습하면서 \"천하\"의 한자와 의미를 다시 확인했다.",
+        "term" : "천하",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “천하” again."
+      }
+    ]
+  },
+  {
+    "character" : "手",
+    "coreMeaning" : "hand",
+    "id" : 38,
+    "koreanName" : "손 수",
+    "mnemonic" : "Five fingers reach from a wrist to form a hand.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "選手",
+        "meaning" : "athlete; player",
+        "sentence" : "수업에서 \"선수\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "선수",
+        "translation" : "In class, I learned the meaning of “선수” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "握手",
+        "meaning" : "handshake",
+        "sentence" : "나는 새로 배운 \"악수\"을 공책에 적어 두었다.",
+        "term" : "악수",
+        "translation" : "I wrote the newly learned term “악수” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "手術",
+        "meaning" : "surgery; operation",
+        "sentence" : "선생님은 \"수술\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "수술",
+        "translation" : "The teacher explained in detail when “수술” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "手段",
+        "meaning" : "means; method",
+        "sentence" : "친구와 함께 \"수단\"을 활용한 문장을 만들어 보았다.",
+        "term" : "수단",
+        "translation" : "A friend and I made a sentence using “수단.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "手作業",
+        "meaning" : "manual work",
+        "sentence" : "복습하면서 \"수작업\"의 한자와 의미를 다시 확인했다.",
+        "term" : "수작업",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “수작업” again."
+      }
+    ]
+  },
+  {
+    "character" : "字",
+    "coreMeaning" : "letter; character",
+    "id" : 39,
+    "koreanName" : "글자 자",
+    "mnemonic" : "A child learns characters safely under a roof.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "漢字",
+        "meaning" : "Chinese character; Hanja",
+        "sentence" : "수업에서 \"한자\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "한자",
+        "translation" : "In class, I learned the meaning of “한자” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "數字",
+        "meaning" : "number; numeral",
+        "sentence" : "나는 새로 배운 \"숫자\"을 공책에 적어 두었다.",
+        "term" : "숫자",
+        "translation" : "I wrote the newly learned term “숫자” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "文字",
+        "meaning" : "letter; text message",
+        "sentence" : "선생님은 \"문자\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "문자",
+        "translation" : "The teacher explained in detail when “문자” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "字幕",
+        "meaning" : "subtitles; captions",
+        "sentence" : "친구와 함께 \"자막\"을 활용한 문장을 만들어 보았다.",
+        "term" : "자막",
+        "translation" : "A friend and I made a sentence using “자막.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "活字",
+        "meaning" : "printing type; printed letters",
+        "sentence" : "복습하면서 \"활자\"의 한자와 의미를 다시 확인했다.",
+        "term" : "활자",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “활자” again."
+      }
+    ]
+  },
+  {
+    "character" : "員",
+    "coreMeaning" : "member; employee",
+    "id" : 40,
+    "koreanName" : "인원 원",
+    "mnemonic" : "A person and a counted shell suggest a listed member.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "會社員",
+        "meaning" : "company employee",
+        "sentence" : "수업에서 \"회사원\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "회사원",
+        "translation" : "In class, I learned the meaning of “회사원” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "職員",
+        "meaning" : "employee; staff member",
+        "sentence" : "나는 새로 배운 \"직원\"을 공책에 적어 두었다.",
+        "term" : "직원",
+        "translation" : "I wrote the newly learned term “직원” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "會員",
+        "meaning" : "member",
+        "sentence" : "선생님은 \"회원\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "회원",
+        "translation" : "The teacher explained in detail when “회원” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "公務員",
+        "meaning" : "public official",
+        "sentence" : "친구와 함께 \"공무원\"을 활용한 문장을 만들어 보았다.",
+        "term" : "공무원",
+        "translation" : "A friend and I made a sentence using “공무원.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "人員",
+        "meaning" : "number of people; personnel",
+        "sentence" : "복습하면서 \"인원\"의 한자와 의미를 다시 확인했다.",
+        "term" : "인원",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “인원” again."
+      }
+    ]
+  },
+  {
+    "character" : "漢",
+    "coreMeaning" : "Han; Chinese",
+    "id" : 41,
+    "koreanName" : "한나라 한",
+    "mnemonic" : "Water flows beside a sturdy figure from the Han realm.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "漢字",
+        "meaning" : "Chinese character; Hanja",
+        "sentence" : "수업에서 \"한자\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "한자",
+        "translation" : "In class, I learned the meaning of “한자” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "漢文",
+        "meaning" : "classical Chinese writing",
+        "sentence" : "나는 새로 배운 \"한문\"을 공책에 적어 두었다.",
+        "term" : "한문",
+        "translation" : "I wrote the newly learned term “한문” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "漢江",
+        "meaning" : "Han River",
+        "sentence" : "선생님은 \"한강\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "한강",
+        "translation" : "The teacher explained in detail when “한강” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "漢藥",
+        "meaning" : "traditional Korean medicine",
+        "sentence" : "친구와 함께 \"한약\"을 활용한 문장을 만들어 보았다.",
+        "term" : "한약",
+        "translation" : "A friend and I made a sentence using “한약.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "漢醫學",
+        "meaning" : "traditional Korean medicine as a field",
+        "sentence" : "복습하면서 \"한의학\"의 한자와 의미를 다시 확인했다.",
+        "term" : "한의학",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “한의학” again."
+      }
+    ]
+  },
+  {
+    "character" : "國",
+    "coreMeaning" : "country; nation",
+    "id" : 42,
+    "koreanName" : "나라 국",
+    "mnemonic" : "A treasured territory is protected inside national borders.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "韓國",
+        "meaning" : "Korea",
+        "sentence" : "수업에서 \"한국\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "한국",
+        "translation" : "In class, I learned the meaning of “한국” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "中國",
+        "meaning" : "China",
+        "sentence" : "나는 새로 배운 \"중국\"을 공책에 적어 두었다.",
+        "term" : "중국",
+        "translation" : "I wrote the newly learned term “중국” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "外國",
+        "meaning" : "foreign country",
+        "sentence" : "선생님은 \"외국\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "외국",
+        "translation" : "The teacher explained in detail when “외국” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "全國",
+        "meaning" : "the whole country; nationwide",
+        "sentence" : "친구와 함께 \"전국\"을 활용한 문장을 만들어 보았다.",
+        "term" : "전국",
+        "translation" : "A friend and I made a sentence using “전국.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "國際",
+        "meaning" : "international",
+        "sentence" : "복습하면서 \"국제\"의 한자와 의미를 다시 확인했다.",
+        "term" : "국제",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “국제” again."
+      }
+    ]
+  },
+  {
+    "character" : "民",
+    "coreMeaning" : "people; citizens",
+    "id" : 43,
+    "koreanName" : "백성 민",
+    "mnemonic" : "A linked crowd represents the people of a community.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "國民",
+        "meaning" : "citizen; the people of a nation",
+        "sentence" : "수업에서 \"국민\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "국민",
+        "translation" : "In class, I learned the meaning of “국민” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "住民",
+        "meaning" : "resident",
+        "sentence" : "나는 새로 배운 \"주민\"을 공책에 적어 두었다.",
+        "term" : "주민",
+        "translation" : "I wrote the newly learned term “주민” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "市民",
+        "meaning" : "city resident; citizen",
+        "sentence" : "선생님은 \"시민\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "시민",
+        "translation" : "The teacher explained in detail when “시민” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "民族",
+        "meaning" : "ethnic group; nation",
+        "sentence" : "친구와 함께 \"민족\"을 활용한 문장을 만들어 보았다.",
+        "term" : "민족",
+        "translation" : "A friend and I made a sentence using “민족.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "農民",
+        "meaning" : "farmer; farming people",
+        "sentence" : "복습하면서 \"농민\"의 한자와 의미를 다시 확인했다.",
+        "term" : "농민",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “농민” again."
+      }
+    ]
+  },
+  {
+    "character" : "美",
+    "coreMeaning" : "beautiful; beauty",
+    "id" : 44,
+    "koreanName" : "아름다울 미",
+    "mnemonic" : "A decorated sheep appears grand and beautiful.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "美國",
+        "meaning" : "United States",
+        "sentence" : "수업에서 \"미국\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "미국",
+        "translation" : "In class, I learned the meaning of “미국” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "美術",
+        "meaning" : "fine art",
+        "sentence" : "나는 새로 배운 \"미술\"을 공책에 적어 두었다.",
+        "term" : "미술",
+        "translation" : "I wrote the newly learned term “미술” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "美人",
+        "meaning" : "beautiful person",
+        "sentence" : "선생님은 \"미인\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "미인",
+        "translation" : "The teacher explained in detail when “미인” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "美容",
+        "meaning" : "beauty care",
+        "sentence" : "친구와 함께 \"미용\"을 활용한 문장을 만들어 보았다.",
+        "term" : "미용",
+        "translation" : "A friend and I made a sentence using “미용.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "美學",
+        "meaning" : "aesthetics",
+        "sentence" : "복습하면서 \"미학\"의 한자와 의미를 다시 확인했다.",
+        "term" : "미학",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “미학” again."
+      }
+    ]
+  },
+  {
+    "character" : "韓",
+    "coreMeaning" : "Korea; Korean",
+    "id" : 45,
+    "koreanName" : "나라 한",
+    "mnemonic" : "A fenced land with a well recalls the Korean nation.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "韓國",
+        "meaning" : "Korea",
+        "sentence" : "수업에서 \"한국\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "한국",
+        "translation" : "In class, I learned the meaning of “한국” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "韓食",
+        "meaning" : "Korean food",
+        "sentence" : "나는 새로 배운 \"한식\"을 공책에 적어 두었다.",
+        "term" : "한식",
+        "translation" : "I wrote the newly learned term “한식” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "韓服",
+        "meaning" : "traditional Korean clothing",
+        "sentence" : "선생님은 \"한복\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "한복",
+        "translation" : "The teacher explained in detail when “한복” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "韓流",
+        "meaning" : "Korean Wave",
+        "sentence" : "친구와 함께 \"한류\"을 활용한 문장을 만들어 보았다.",
+        "term" : "한류",
+        "translation" : "A friend and I made a sentence using “한류.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "南韓",
+        "meaning" : "South Korea",
+        "sentence" : "복습하면서 \"남한\"의 한자와 의미를 다시 확인했다.",
+        "term" : "남한",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “남한” again."
+      }
+    ]
+  },
+  {
+    "character" : "江",
+    "coreMeaning" : "river",
+    "id" : 46,
+    "koreanName" : "강 강",
+    "mnemonic" : "Water beside a crafted channel becomes a broad river.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "漢江",
+        "meaning" : "Han River",
+        "sentence" : "수업에서 \"한강\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "한강",
+        "translation" : "In class, I learned the meaning of “한강” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "江南",
+        "meaning" : "area south of a river; Gangnam",
+        "sentence" : "나는 새로 배운 \"강남\"을 공책에 적어 두었다.",
+        "term" : "강남",
+        "translation" : "I wrote the newly learned term “강남” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "江北",
+        "meaning" : "area north of a river; Gangbuk",
+        "sentence" : "선생님은 \"강북\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "강북",
+        "translation" : "The teacher explained in detail when “강북” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "江邊",
+        "meaning" : "riverside",
+        "sentence" : "친구와 함께 \"강변\"을 활용한 문장을 만들어 보았다.",
+        "term" : "강변",
+        "translation" : "A friend and I made a sentence using “강변.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "大同江",
+        "meaning" : "Taedong River",
+        "sentence" : "복습하면서 \"대동강\"의 한자와 의미를 다시 확인했다.",
+        "term" : "대동강",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “대동강” again."
+      }
+    ]
+  },
+  {
+    "character" : "水",
+    "coreMeaning" : "water",
+    "id" : 47,
+    "koreanName" : "물 수",
+    "mnemonic" : "A central stream splashes droplets to both sides.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "生水",
+        "meaning" : "bottled mineral water",
+        "sentence" : "수업에서 \"생수\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "생수",
+        "translation" : "In class, I learned the meaning of “생수” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "水道",
+        "meaning" : "water supply; waterworks",
+        "sentence" : "나는 새로 배운 \"수도\"을 공책에 적어 두었다.",
+        "term" : "수도",
+        "translation" : "I wrote the newly learned term “수도” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "水泳",
+        "meaning" : "swimming",
+        "sentence" : "선생님은 \"수영\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "수영",
+        "translation" : "The teacher explained in detail when “수영” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "洪水",
+        "meaning" : "flood",
+        "sentence" : "친구와 함께 \"홍수\"을 활용한 문장을 만들어 보았다.",
+        "term" : "홍수",
+        "translation" : "A friend and I made a sentence using “홍수.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "水分",
+        "meaning" : "moisture; water content",
+        "sentence" : "복습하면서 \"수분\"의 한자와 의미를 다시 확인했다.",
+        "term" : "수분",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “수분” again."
+      }
+    ]
+  },
+  {
+    "character" : "川",
+    "coreMeaning" : "stream; river",
+    "id" : 48,
+    "koreanName" : "내 천",
+    "mnemonic" : "Three flowing channels run side by side like a stream.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "河川",
+        "meaning" : "river; stream",
+        "sentence" : "수업에서 \"하천\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "하천",
+        "translation" : "In class, I learned the meaning of “하천” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "山川",
+        "meaning" : "mountains and rivers; scenery",
+        "sentence" : "나는 새로 배운 \"산천\"을 공책에 적어 두었다.",
+        "term" : "산천",
+        "translation" : "I wrote the newly learned term “산천” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "仁川",
+        "meaning" : "Incheon",
+        "sentence" : "선생님은 \"인천\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "인천",
+        "translation" : "The teacher explained in detail when “인천” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "泗川",
+        "meaning" : "Sacheon",
+        "sentence" : "친구와 함께 \"사천\"을 활용한 문장을 만들어 보았다.",
+        "term" : "사천",
+        "translation" : "A friend and I made a sentence using “사천.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "川邊",
+        "meaning" : "streamside; riverside",
+        "sentence" : "복습하면서 \"천변\"의 한자와 의미를 다시 확인했다.",
+        "term" : "천변",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “천변” again."
+      }
+    ]
+  },
+  {
+    "character" : "冷",
+    "coreMeaning" : "cold; cool",
+    "id" : 49,
+    "koreanName" : "찰 냉",
+    "mnemonic" : "Drops of ice gather around a command to stay cold.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "冷麵",
+        "meaning" : "cold noodles",
+        "sentence" : "수업에서 \"냉면\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "냉면",
+        "translation" : "In class, I learned the meaning of “냉면” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "冷藏庫",
+        "meaning" : "refrigerator",
+        "sentence" : "나는 새로 배운 \"냉장고\"을 공책에 적어 두었다.",
+        "term" : "냉장고",
+        "translation" : "I wrote the newly learned term “냉장고” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "冷凍",
+        "meaning" : "freezing; frozen",
+        "sentence" : "선생님은 \"냉동\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "냉동",
+        "translation" : "The teacher explained in detail when “냉동” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "冷水",
+        "meaning" : "cold water",
+        "sentence" : "친구와 함께 \"냉수\"을 활용한 문장을 만들어 보았다.",
+        "term" : "냉수",
+        "translation" : "A friend and I made a sentence using “냉수.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "冷靜",
+        "meaning" : "calm; cool-headed",
+        "sentence" : "복습하면서 \"냉정\"의 한자와 의미를 다시 확인했다.",
+        "term" : "냉정",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “냉정” again."
+      }
+    ]
+  },
+  {
+    "character" : "本",
+    "coreMeaning" : "root; origin",
+    "id" : 50,
+    "koreanName" : "근본 본",
+    "mnemonic" : "A mark at the base of a tree points to its root.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "基本",
+        "meaning" : "basis; fundamentals",
+        "sentence" : "수업에서 \"기본\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "기본",
+        "translation" : "In class, I learned the meaning of “기본” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "日本",
+        "meaning" : "Japan",
+        "sentence" : "나는 새로 배운 \"일본\"을 공책에 적어 두었다.",
+        "term" : "일본",
+        "translation" : "I wrote the newly learned term “일본” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "本人",
+        "meaning" : "the person oneself",
+        "sentence" : "선생님은 \"본인\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "본인",
+        "translation" : "The teacher explained in detail when “본인” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "本文",
+        "meaning" : "main text; body",
+        "sentence" : "친구와 함께 \"본문\"을 활용한 문장을 만들어 보았다.",
+        "term" : "본문",
+        "translation" : "A friend and I made a sentence using “본문.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "資本",
+        "meaning" : "capital; funds",
+        "sentence" : "복습하면서 \"자본\"의 한자와 의미를 다시 확인했다.",
+        "term" : "자본",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “자본” again."
+      }
+    ]
+  },
+  {
+    "character" : "心",
+    "coreMeaning" : "heart; mind",
+    "id" : 51,
+    "koreanName" : "마음 심",
+    "mnemonic" : "Three feelings gather around the curve of a heart.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "關心",
+        "meaning" : "interest; concern",
+        "sentence" : "수업에서 \"관심\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "관심",
+        "translation" : "In class, I learned the meaning of “관심” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "中心",
+        "meaning" : "center; core",
+        "sentence" : "나는 새로 배운 \"중심\"을 공책에 적어 두었다.",
+        "term" : "중심",
+        "translation" : "I wrote the newly learned term “중심” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "安心",
+        "meaning" : "relief; peace of mind",
+        "sentence" : "선생님은 \"안심\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "안심",
+        "translation" : "The teacher explained in detail when “안심” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "決心",
+        "meaning" : "determination; decision",
+        "sentence" : "친구와 함께 \"결심\"을 활용한 문장을 만들어 보았다.",
+        "term" : "결심",
+        "translation" : "A friend and I made a sentence using “결심.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "心理",
+        "meaning" : "psychology; state of mind",
+        "sentence" : "복습하면서 \"심리\"의 한자와 의미를 다시 확인했다.",
+        "term" : "심리",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “심리” again."
+      }
+    ]
+  },
+  {
+    "character" : "身",
+    "coreMeaning" : "body; oneself",
+    "id" : 52,
+    "koreanName" : "몸 신",
+    "mnemonic" : "A person turns sideways to show the whole body.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "自身",
+        "meaning" : "oneself; confidence",
+        "sentence" : "수업에서 \"자신\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "자신",
+        "translation" : "In class, I learned the meaning of “자신” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "身體",
+        "meaning" : "body; physique",
+        "sentence" : "나는 새로 배운 \"신체\"을 공책에 적어 두었다.",
+        "term" : "신체",
+        "translation" : "I wrote the newly learned term “신체” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "身分",
+        "meaning" : "status; identity",
+        "sentence" : "선생님은 \"신분\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "신분",
+        "translation" : "The teacher explained in detail when “신분” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "出身",
+        "meaning" : "origin; background",
+        "sentence" : "친구와 함께 \"출신\"을 활용한 문장을 만들어 보았다.",
+        "term" : "출신",
+        "translation" : "A friend and I made a sentence using “출신.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "身長",
+        "meaning" : "height; body length",
+        "sentence" : "복습하면서 \"신장\"의 한자와 의미를 다시 확인했다.",
+        "term" : "신장",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “신장” again."
+      }
+    ]
+  },
+  {
+    "character" : "體",
+    "coreMeaning" : "body; form",
+    "id" : 53,
+    "koreanName" : "몸 체",
+    "mnemonic" : "Bones arranged with rich structure build a complete body.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "身體",
+        "meaning" : "body; physique",
+        "sentence" : "수업에서 \"신체\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "신체",
+        "translation" : "In class, I learned the meaning of “신체” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "體育",
+        "meaning" : "physical education",
+        "sentence" : "나는 새로 배운 \"체육\"을 공책에 적어 두었다.",
+        "term" : "체육",
+        "translation" : "I wrote the newly learned term “체육” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "全體",
+        "meaning" : "whole; entirety",
+        "sentence" : "선생님은 \"전체\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "전체",
+        "translation" : "The teacher explained in detail when “전체” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "團體",
+        "meaning" : "organization; group",
+        "sentence" : "친구와 함께 \"단체\"을 활용한 문장을 만들어 보았다.",
+        "term" : "단체",
+        "translation" : "A friend and I made a sentence using “단체.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "體驗",
+        "meaning" : "hands-on experience",
+        "sentence" : "복습하면서 \"체험\"의 한자와 의미를 다시 확인했다.",
+        "term" : "체험",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “체험” again."
+      }
+    ]
+  },
+  {
+    "character" : "感",
+    "coreMeaning" : "feel; sense",
+    "id" : 54,
+    "koreanName" : "느낄 감",
+    "mnemonic" : "A stirred heart responds with a strong feeling.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "感情",
+        "meaning" : "emotion; feeling",
+        "sentence" : "수업에서 \"감정\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "감정",
+        "translation" : "In class, I learned the meaning of “감정” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "感謝",
+        "meaning" : "thanks; gratitude",
+        "sentence" : "나는 새로 배운 \"감사\"을 공책에 적어 두었다.",
+        "term" : "감사",
+        "translation" : "I wrote the newly learned term “감사” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "感動",
+        "meaning" : "deep emotion; being moved",
+        "sentence" : "선생님은 \"감동\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "감동",
+        "translation" : "The teacher explained in detail when “감동” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "責任感",
+        "meaning" : "sense of responsibility",
+        "sentence" : "친구와 함께 \"책임감\"을 활용한 문장을 만들어 보았다.",
+        "term" : "책임감",
+        "translation" : "A friend and I made a sentence using “책임감.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "自信感",
+        "meaning" : "self-confidence",
+        "sentence" : "복습하면서 \"자신감\"의 한자와 의미를 다시 확인했다.",
+        "term" : "자신감",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “자신감” again."
+      }
+    ]
+  },
+  {
+    "character" : "家",
+    "coreMeaning" : "house; family",
+    "id" : 55,
+    "koreanName" : "집 가",
+    "mnemonic" : "A roof shelters a household and makes a home.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "家族",
+        "meaning" : "family",
+        "sentence" : "수업에서 \"가족\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "가족",
+        "translation" : "In class, I learned the meaning of “가족” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "國家",
+        "meaning" : "nation; state",
+        "sentence" : "나는 새로 배운 \"국가\"을 공책에 적어 두었다.",
+        "term" : "국가",
+        "translation" : "I wrote the newly learned term “국가” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "作家",
+        "meaning" : "writer; artist",
+        "sentence" : "선생님은 \"작가\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "작가",
+        "translation" : "The teacher explained in detail when “작가” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "專門家",
+        "meaning" : "expert",
+        "sentence" : "친구와 함께 \"전문가\"을 활용한 문장을 만들어 보았다.",
+        "term" : "전문가",
+        "translation" : "A friend and I made a sentence using “전문가.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "家庭",
+        "meaning" : "home; household",
+        "sentence" : "복습하면서 \"가정\"의 한자와 의미를 다시 확인했다.",
+        "term" : "가정",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “가정” again."
+      }
+    ]
+  },
+  {
+    "character" : "名",
+    "coreMeaning" : "name",
+    "id" : 56,
+    "koreanName" : "이름 명",
+    "mnemonic" : "An evening mouth calls out a person's name.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "有名",
+        "meaning" : "famous",
+        "sentence" : "수업에서 \"유명\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "유명",
+        "translation" : "In class, I learned the meaning of “유명” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "名銜",
+        "meaning" : "business card",
+        "sentence" : "나는 새로 배운 \"명함\"을 공책에 적어 두었다.",
+        "term" : "명함",
+        "translation" : "I wrote the newly learned term “명함” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "姓名",
+        "meaning" : "full name",
+        "sentence" : "선생님은 \"성명\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "성명",
+        "translation" : "The teacher explained in detail when “성명” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "別名",
+        "meaning" : "nickname",
+        "sentence" : "친구와 함께 \"별명\"을 활용한 문장을 만들어 보았다.",
+        "term" : "별명",
+        "translation" : "A friend and I made a sentence using “별명.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "名單",
+        "meaning" : "list of names; roster",
+        "sentence" : "복습하면서 \"명단\"의 한자와 의미를 다시 확인했다.",
+        "term" : "명단",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “명단” again."
+      }
+    ]
+  },
+  {
+    "character" : "品",
+    "coreMeaning" : "goods; quality",
+    "id" : 57,
+    "koreanName" : "물건 품",
+    "mnemonic" : "Three mouths inspect a set of goods and their quality.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "商品",
+        "meaning" : "product; merchandise",
+        "sentence" : "수업에서 \"상품\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "상품",
+        "translation" : "In class, I learned the meaning of “상품” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "製品",
+        "meaning" : "manufactured product",
+        "sentence" : "나는 새로 배운 \"제품\"을 공책에 적어 두었다.",
+        "term" : "제품",
+        "translation" : "I wrote the newly learned term “제품” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "食品",
+        "meaning" : "food product",
+        "sentence" : "선생님은 \"식품\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "식품",
+        "translation" : "The teacher explained in detail when “식품” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "作品",
+        "meaning" : "work of art; creation",
+        "sentence" : "친구와 함께 \"작품\"을 활용한 문장을 만들어 보았다.",
+        "term" : "작품",
+        "translation" : "A friend and I made a sentence using “작품.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "品質",
+        "meaning" : "quality",
+        "sentence" : "복습하면서 \"품질\"의 한자와 의미를 다시 확인했다.",
+        "term" : "품질",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “품질” again."
+      }
+    ]
+  },
+  {
+    "character" : "金",
+    "coreMeaning" : "gold; metal; money",
+    "id" : 58,
+    "koreanName" : "쇠 금",
+    "mnemonic" : "A gleam hidden underground marks metal and gold.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "現金",
+        "meaning" : "cash",
+        "sentence" : "수업에서 \"현금\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "현금",
+        "translation" : "In class, I learned the meaning of “현금” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "金曜日",
+        "meaning" : "Friday",
+        "sentence" : "나는 새로 배운 \"금요일\"을 공책에 적어 두었다.",
+        "term" : "금요일",
+        "translation" : "I wrote the newly learned term “금요일” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "金額",
+        "meaning" : "amount of money",
+        "sentence" : "선생님은 \"금액\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "금액",
+        "translation" : "The teacher explained in detail when “금액” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "年金",
+        "meaning" : "pension",
+        "sentence" : "친구와 함께 \"연금\"을 활용한 문장을 만들어 보았다.",
+        "term" : "연금",
+        "translation" : "A friend and I made a sentence using “연금.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "金屬",
+        "meaning" : "metal",
+        "sentence" : "복습하면서 \"금속\"의 한자와 의미를 다시 확인했다.",
+        "term" : "금속",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “금속” again."
+      }
+    ]
+  },
+  {
+    "character" : "李",
+    "coreMeaning" : "plum; surname Yi/Lee",
+    "id" : 59,
+    "koreanName" : "오얏 이",
+    "mnemonic" : "A child beneath a tree points to the plum surname Yi.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "李氏",
+        "meaning" : "a person of the Yi/Lee surname",
+        "sentence" : "수업에서 \"이씨\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "이씨",
+        "translation" : "In class, I learned the meaning of “이씨” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "李舜臣",
+        "meaning" : "Yi Sun-sin",
+        "sentence" : "나는 새로 배운 \"이순신\"을 공책에 적어 두었다.",
+        "term" : "이순신",
+        "translation" : "I wrote the newly learned term “이순신” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "李成桂",
+        "meaning" : "Yi Seong-gye",
+        "sentence" : "선생님은 \"이성계\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "이성계",
+        "translation" : "The teacher explained in detail when “이성계” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "李栗谷",
+        "meaning" : "Yi Yulgok",
+        "sentence" : "친구와 함께 \"이율곡\"을 활용한 문장을 만들어 보았다.",
+        "term" : "이율곡",
+        "translation" : "A friend and I made a sentence using “이율곡.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "李世民",
+        "meaning" : "Li Shimin",
+        "sentence" : "복습하면서 \"이세민\"의 한자와 의미를 다시 확인했다.",
+        "term" : "이세민",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “이세민” again."
+      }
+    ]
+  },
+  {
+    "character" : "正",
+    "coreMeaning" : "right; correct",
+    "id" : 60,
+    "koreanName" : "바를 정",
+    "mnemonic" : "A foot stops exactly on the line and stands correct.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "正答",
+        "meaning" : "correct answer",
+        "sentence" : "수업에서 \"정답\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "정답",
+        "translation" : "In class, I learned the meaning of “정답” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "正常",
+        "meaning" : "normal; proper condition",
+        "sentence" : "나는 새로 배운 \"정상\"을 공책에 적어 두었다.",
+        "term" : "정상",
+        "translation" : "I wrote the newly learned term “정상” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "修正",
+        "meaning" : "correction; revision",
+        "sentence" : "선생님은 \"수정\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "수정",
+        "translation" : "The teacher explained in detail when “수정” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "正門",
+        "meaning" : "main gate",
+        "sentence" : "친구와 함께 \"정문\"을 활용한 문장을 만들어 보았다.",
+        "term" : "정문",
+        "translation" : "A friend and I made a sentence using “정문.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "正式",
+        "meaning" : "formal; official",
+        "sentence" : "복습하면서 \"정식\"의 한자와 의미를 다시 확인했다.",
+        "term" : "정식",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “정식” again."
+      }
+    ]
+  },
+  {
+    "character" : "無",
+    "coreMeaning" : "none; without",
+    "id" : 61,
+    "koreanName" : "없을 무",
+    "mnemonic" : "A sweeping fire leaves nothing behind.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "無料",
+        "meaning" : "free of charge",
+        "sentence" : "수업에서 \"무료\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "무료",
+        "translation" : "In class, I learned the meaning of “무료” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "無關",
+        "meaning" : "unrelated; no connection",
+        "sentence" : "나는 새로 배운 \"무관\"을 공책에 적어 두었다.",
+        "term" : "무관",
+        "translation" : "I wrote the newly learned term “무관” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "無視",
+        "meaning" : "disregard; ignoring",
+        "sentence" : "선생님은 \"무시\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "무시",
+        "translation" : "The teacher explained in detail when “무시” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "無限",
+        "meaning" : "infinite; unlimited",
+        "sentence" : "친구와 함께 \"무한\"을 활용한 문장을 만들어 보았다.",
+        "term" : "무한",
+        "translation" : "A friend and I made a sentence using “무한.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "無條件",
+        "meaning" : "unconditionally; no conditions",
+        "sentence" : "복습하면서 \"무조건\"의 한자와 의미를 다시 확인했다.",
+        "term" : "무조건",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “무조건” again."
+      }
+    ]
+  },
+  {
+    "character" : "不",
+    "coreMeaning" : "not; no",
+    "id" : 62,
+    "koreanName" : "아닐 불",
+    "mnemonic" : "A firm stroke blocks the idea and says not.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "不便",
+        "meaning" : "inconvenience; discomfort",
+        "sentence" : "수업에서 \"불편\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "불편",
+        "translation" : "In class, I learned the meaning of “불편” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "不足",
+        "meaning" : "shortage; insufficiency",
+        "sentence" : "나는 새로 배운 \"부족\"을 공책에 적어 두었다.",
+        "term" : "부족",
+        "translation" : "I wrote the newly learned term “부족” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "不安",
+        "meaning" : "anxiety; unease",
+        "sentence" : "선생님은 \"불안\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "불안",
+        "translation" : "The teacher explained in detail when “불안” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "不正",
+        "meaning" : "wrongdoing; improper",
+        "sentence" : "친구와 함께 \"부정\"을 활용한 문장을 만들어 보았다.",
+        "term" : "부정",
+        "translation" : "A friend and I made a sentence using “부정.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "不可能",
+        "meaning" : "impossible",
+        "sentence" : "복습하면서 \"불가능\"의 한자와 의미를 다시 확인했다.",
+        "term" : "불가능",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “불가능” again."
+      }
+    ]
+  },
+  {
+    "character" : "用",
+    "coreMeaning" : "use",
+    "id" : 63,
+    "koreanName" : "쓸 용",
+    "mnemonic" : "A useful tool is marked into working sections.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "使用",
+        "meaning" : "use; usage",
+        "sentence" : "수업에서 \"사용\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "사용",
+        "translation" : "In class, I learned the meaning of “사용” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "利用",
+        "meaning" : "use; utilization",
+        "sentence" : "나는 새로 배운 \"이용\"을 공책에 적어 두었다.",
+        "term" : "이용",
+        "translation" : "I wrote the newly learned term “이용” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "費用",
+        "meaning" : "cost; expense",
+        "sentence" : "선생님은 \"비용\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "비용",
+        "translation" : "The teacher explained in detail when “비용” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "用途",
+        "meaning" : "purpose; use",
+        "sentence" : "친구와 함께 \"용도\"을 활용한 문장을 만들어 보았다.",
+        "term" : "용도",
+        "translation" : "A friend and I made a sentence using “용도.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "實用",
+        "meaning" : "practical use",
+        "sentence" : "복습하면서 \"실용\"의 한자와 의미를 다시 확인했다.",
+        "term" : "실용",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “실용” again."
+      }
+    ]
+  },
+  {
+    "character" : "半",
+    "coreMeaning" : "half",
+    "id" : 64,
+    "koreanName" : "반 반",
+    "mnemonic" : "A central line divides the whole into two halves.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "折半",
+        "meaning" : "half",
+        "sentence" : "수업에서 \"절반\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "절반",
+        "translation" : "In class, I learned the meaning of “절반” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "半年",
+        "meaning" : "half a year",
+        "sentence" : "나는 새로 배운 \"반년\"을 공책에 적어 두었다.",
+        "term" : "반년",
+        "translation" : "I wrote the newly learned term “반년” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "半島",
+        "meaning" : "peninsula",
+        "sentence" : "선생님은 \"반도\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "반도",
+        "translation" : "The teacher explained in detail when “반도” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "半月",
+        "meaning" : "half moon; half a month",
+        "sentence" : "친구와 함께 \"반월\"을 활용한 문장을 만들어 보았다.",
+        "term" : "반월",
+        "translation" : "A friend and I made a sentence using “반월.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "上半期",
+        "meaning" : "first half of the year",
+        "sentence" : "복습하면서 \"상반기\"의 한자와 의미를 다시 확인했다.",
+        "term" : "상반기",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “상반기” again."
+      }
+    ]
+  },
+  {
+    "character" : "白",
+    "coreMeaning" : "white",
+    "id" : 65,
+    "koreanName" : "흰 백",
+    "mnemonic" : "A bright ray enters the sun and turns it white.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "告白",
+        "meaning" : "confession",
+        "sentence" : "수업에서 \"고백\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "고백",
+        "translation" : "In class, I learned the meaning of “고백” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "白人",
+        "meaning" : "white person",
+        "sentence" : "나는 새로 배운 \"백인\"을 공책에 적어 두었다.",
+        "term" : "백인",
+        "translation" : "I wrote the newly learned term “백인” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "白紙",
+        "meaning" : "blank paper",
+        "sentence" : "선생님은 \"백지\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "백지",
+        "translation" : "The teacher explained in detail when “백지” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "白色",
+        "meaning" : "white color",
+        "sentence" : "친구와 함께 \"백색\"을 활용한 문장을 만들어 보았다.",
+        "term" : "백색",
+        "translation" : "A friend and I made a sentence using “백색.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "潔白",
+        "meaning" : "innocence; integrity",
+        "sentence" : "복습하면서 \"결백\"의 한자와 의미를 다시 확인했다.",
+        "term" : "결백",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “결백” again."
+      }
+    ]
+  },
+  {
+    "character" : "學",
+    "coreMeaning" : "learn; study",
+    "id" : 66,
+    "koreanName" : "배울 학",
+    "mnemonic" : "Hands pass knowledge beneath a roof where a child learns.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "學校",
+        "meaning" : "school",
+        "sentence" : "수업에서 \"학교\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "학교",
+        "translation" : "In class, I learned the meaning of “학교” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "學生",
+        "meaning" : "student",
+        "sentence" : "나는 새로 배운 \"학생\"을 공책에 적어 두었다.",
+        "term" : "학생",
+        "translation" : "I wrote the newly learned term “학생” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "大學",
+        "meaning" : "university; college",
+        "sentence" : "선생님은 \"대학\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "대학",
+        "translation" : "The teacher explained in detail when “대학” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "學習",
+        "meaning" : "learning; study",
+        "sentence" : "친구와 함께 \"학습\"을 활용한 문장을 만들어 보았다.",
+        "term" : "학습",
+        "translation" : "A friend and I made a sentence using “학습.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "科學",
+        "meaning" : "science",
+        "sentence" : "복습하면서 \"과학\"의 한자와 의미를 다시 확인했다.",
+        "term" : "과학",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “과학” again."
+      }
+    ]
+  },
+  {
+    "character" : "生",
+    "coreMeaning" : "life; be born",
+    "id" : 67,
+    "koreanName" : "날 생",
+    "mnemonic" : "A new plant rises from the soil and comes to life.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "學生",
+        "meaning" : "student",
+        "sentence" : "수업에서 \"학생\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "학생",
+        "translation" : "In class, I learned the meaning of “학생” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "生活",
+        "meaning" : "daily life; living",
+        "sentence" : "나는 새로 배운 \"생활\"을 공책에 적어 두었다.",
+        "term" : "생활",
+        "translation" : "I wrote the newly learned term “생활” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "生日",
+        "meaning" : "birthday",
+        "sentence" : "선생님은 \"생일\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "생일",
+        "translation" : "The teacher explained in detail when “생일” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "先生",
+        "meaning" : "teacher; one born earlier",
+        "sentence" : "친구와 함께 \"선생\"을 활용한 문장을 만들어 보았다.",
+        "term" : "선생",
+        "translation" : "A friend and I made a sentence using “선생.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "生命",
+        "meaning" : "life; living being",
+        "sentence" : "복습하면서 \"생명\"의 한자와 의미를 다시 확인했다.",
+        "term" : "생명",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “생명” again."
+      }
+    ]
+  },
+  {
+    "character" : "校",
+    "coreMeaning" : "school",
+    "id" : 68,
+    "koreanName" : "학교 교",
+    "mnemonic" : "A tree and crossing marks recall a school building.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "學校",
+        "meaning" : "school",
+        "sentence" : "수업에서 \"학교\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "학교",
+        "translation" : "In class, I learned the meaning of “학교” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "母校",
+        "meaning" : "one's former school; alma mater",
+        "sentence" : "나는 새로 배운 \"모교\"을 공책에 적어 두었다.",
+        "term" : "모교",
+        "translation" : "I wrote the newly learned term “모교” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "校長",
+        "meaning" : "school principal",
+        "sentence" : "선생님은 \"교장\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "교장",
+        "translation" : "The teacher explained in detail when “교장” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "校門",
+        "meaning" : "school gate",
+        "sentence" : "친구와 함께 \"교문\"을 활용한 문장을 만들어 보았다.",
+        "term" : "교문",
+        "translation" : "A friend and I made a sentence using “교문.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "全校",
+        "meaning" : "the whole school",
+        "sentence" : "복습하면서 \"전교\"의 한자와 의미를 다시 확인했다.",
+        "term" : "전교",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “전교” again."
+      }
+    ]
+  },
+  {
+    "character" : "先",
+    "coreMeaning" : "first; ahead",
+    "id" : 69,
+    "koreanName" : "먼저 선",
+    "mnemonic" : "A person takes the leading step and goes first.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "先生",
+        "meaning" : "teacher",
+        "sentence" : "수업에서 \"선생\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "선생",
+        "translation" : "In class, I learned the meaning of “선생” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "優先",
+        "meaning" : "priority; first of all",
+        "sentence" : "나는 새로 배운 \"우선\"을 공책에 적어 두었다.",
+        "term" : "우선",
+        "translation" : "I wrote the newly learned term “우선” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "先進國",
+        "meaning" : "developed country",
+        "sentence" : "선생님은 \"선진국\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "선진국",
+        "translation" : "The teacher explained in detail when “선진국” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "先輩",
+        "meaning" : "senior; upperclassman",
+        "sentence" : "친구와 함께 \"선배\"을 활용한 문장을 만들어 보았다.",
+        "term" : "선배",
+        "translation" : "A friend and I made a sentence using “선배.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "先着順",
+        "meaning" : "first-come, first-served order",
+        "sentence" : "복습하면서 \"선착순\"의 한자와 의미를 다시 확인했다.",
+        "term" : "선착순",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “선착순” again."
+      }
+    ]
+  },
+  {
+    "character" : "師",
+    "coreMeaning" : "teacher; master",
+    "id" : 70,
+    "koreanName" : "스승 사",
+    "mnemonic" : "A respected guide stands before a group as its teacher.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "敎師",
+        "meaning" : "teacher",
+        "sentence" : "수업에서 \"교사\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "교사",
+        "translation" : "In class, I learned the meaning of “교사” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "醫師",
+        "meaning" : "doctor; physician",
+        "sentence" : "나는 새로 배운 \"의사\"을 공책에 적어 두었다.",
+        "term" : "의사",
+        "translation" : "I wrote the newly learned term “의사” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "講師",
+        "meaning" : "instructor; lecturer",
+        "sentence" : "선생님은 \"강사\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "강사",
+        "translation" : "The teacher explained in detail when “강사” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "藥師",
+        "meaning" : "pharmacist",
+        "sentence" : "친구와 함께 \"약사\"을 활용한 문장을 만들어 보았다.",
+        "term" : "약사",
+        "translation" : "A friend and I made a sentence using “약사.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "牧師",
+        "meaning" : "Protestant pastor",
+        "sentence" : "복습하면서 \"목사\"의 한자와 의미를 다시 확인했다.",
+        "term" : "목사",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “목사” again."
+      }
+    ]
+  },
+  {
+    "character" : "公",
+    "coreMeaning" : "public; fair",
+    "id" : 71,
+    "koreanName" : "공평할 공",
+    "mnemonic" : "Private lines open outward into a shared public space.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "公園",
+        "meaning" : "park",
+        "sentence" : "수업에서 \"공원\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "공원",
+        "translation" : "In class, I learned the meaning of “공원” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "公共",
+        "meaning" : "public; communal",
+        "sentence" : "나는 새로 배운 \"공공\"을 공책에 적어 두었다.",
+        "term" : "공공",
+        "translation" : "I wrote the newly learned term “공공” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "公務員",
+        "meaning" : "public official",
+        "sentence" : "선생님은 \"공무원\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "공무원",
+        "translation" : "The teacher explained in detail when “공무원” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "公開",
+        "meaning" : "opening to the public; disclosure",
+        "sentence" : "친구와 함께 \"공개\"을 활용한 문장을 만들어 보았다.",
+        "term" : "공개",
+        "translation" : "A friend and I made a sentence using “공개.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "公立",
+        "meaning" : "publicly established",
+        "sentence" : "복습하면서 \"공립\"의 한자와 의미를 다시 확인했다.",
+        "term" : "공립",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “공립” again."
+      }
+    ]
+  },
+  {
+    "character" : "市",
+    "coreMeaning" : "city; market",
+    "id" : 72,
+    "koreanName" : "저자 시",
+    "mnemonic" : "A banner draws people together in a city market.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "都市",
+        "meaning" : "city",
+        "sentence" : "수업에서 \"도시\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "도시",
+        "translation" : "In class, I learned the meaning of “도시” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "市場",
+        "meaning" : "market",
+        "sentence" : "나는 새로 배운 \"시장\"을 공책에 적어 두었다.",
+        "term" : "시장",
+        "translation" : "I wrote the newly learned term “시장” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "市民",
+        "meaning" : "city resident; citizen",
+        "sentence" : "선생님은 \"시민\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "시민",
+        "translation" : "The teacher explained in detail when “시민” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "市內",
+        "meaning" : "downtown; within the city",
+        "sentence" : "친구와 함께 \"시내\"을 활용한 문장을 만들어 보았다.",
+        "term" : "시내",
+        "translation" : "A friend and I made a sentence using “시내.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "廣域市",
+        "meaning" : "metropolitan city",
+        "sentence" : "복습하면서 \"광역시\"의 한자와 의미를 다시 확인했다.",
+        "term" : "광역시",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “광역시” again."
+      }
+    ]
+  },
+  {
+    "character" : "區",
+    "coreMeaning" : "district; section",
+    "id" : 73,
+    "koreanName" : "구분할 구",
+    "mnemonic" : "Boundaries divide an area into a clear district.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "區域",
+        "meaning" : "zone; district",
+        "sentence" : "수업에서 \"구역\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "구역",
+        "translation" : "In class, I learned the meaning of “구역” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "區廳",
+        "meaning" : "district office",
+        "sentence" : "나는 새로 배운 \"구청\"을 공책에 적어 두었다.",
+        "term" : "구청",
+        "translation" : "I wrote the newly learned term “구청” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "地區",
+        "meaning" : "district; region",
+        "sentence" : "선생님은 \"지구\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "지구",
+        "translation" : "The teacher explained in detail when “지구” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "自治區",
+        "meaning" : "autonomous district",
+        "sentence" : "친구와 함께 \"자치구\"을 활용한 문장을 만들어 보았다.",
+        "term" : "자치구",
+        "translation" : "A friend and I made a sentence using “자치구.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "區分",
+        "meaning" : "classification; distinction",
+        "sentence" : "복습하면서 \"구분\"의 한자와 의미를 다시 확인했다.",
+        "term" : "구분",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “구분” again."
+      }
+    ]
+  },
+  {
+    "character" : "洞",
+    "coreMeaning" : "neighborhood; cave",
+    "id" : 74,
+    "koreanName" : "골 동",
+    "mnemonic" : "Water carves a matching opening into a deep cave.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "洞窟",
+        "meaning" : "cave",
+        "sentence" : "수업에서 \"동굴\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "동굴",
+        "translation" : "In class, I learned the meaning of “동굴” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "洞長",
+        "meaning" : "neighborhood head",
+        "sentence" : "나는 새로 배운 \"동장\"을 공책에 적어 두었다.",
+        "term" : "동장",
+        "translation" : "I wrote the newly learned term “동장” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "行政洞",
+        "meaning" : "administrative neighborhood",
+        "sentence" : "선생님은 \"행정동\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "행정동",
+        "translation" : "The teacher explained in detail when “행정동” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "法定洞",
+        "meaning" : "legally designated neighborhood",
+        "sentence" : "친구와 함께 \"법정동\"을 활용한 문장을 만들어 보았다.",
+        "term" : "법정동",
+        "translation" : "A friend and I made a sentence using “법정동.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "洞事務所",
+        "meaning" : "neighborhood administrative office",
+        "sentence" : "복습하면서 \"동사무소\"의 한자와 의미를 다시 확인했다.",
+        "term" : "동사무소",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “동사무소” again."
+      }
+    ]
+  },
+  {
+    "character" : "合",
+    "coreMeaning" : "join; combine",
+    "id" : 75,
+    "koreanName" : "합할 합",
+    "mnemonic" : "A lid fits a container as two parts join together.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "合格",
+        "meaning" : "passing; qualification",
+        "sentence" : "수업에서 \"합격\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "합격",
+        "translation" : "In class, I learned the meaning of “합격” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "合意",
+        "meaning" : "agreement; consensus",
+        "sentence" : "나는 새로 배운 \"합의\"을 공책에 적어 두었다.",
+        "term" : "합의",
+        "translation" : "I wrote the newly learned term “합의” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "綜合",
+        "meaning" : "synthesis; comprehensive combination",
+        "sentence" : "선생님은 \"종합\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "종합",
+        "translation" : "The teacher explained in detail when “종합” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "結合",
+        "meaning" : "combination; union",
+        "sentence" : "친구와 함께 \"결합\"을 활용한 문장을 만들어 보았다.",
+        "term" : "결합",
+        "translation" : "A friend and I made a sentence using “결합.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "合計",
+        "meaning" : "total; sum",
+        "sentence" : "복습하면서 \"합계\"의 한자와 의미를 다시 확인했다.",
+        "term" : "합계",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “합계” again."
+      }
+    ]
+  },
+  {
+    "character" : "場",
+    "coreMeaning" : "place; field",
+    "id" : 76,
+    "koreanName" : "마당 장",
+    "mnemonic" : "An open earthwork becomes a place where people gather.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "市場",
+        "meaning" : "market",
+        "sentence" : "수업에서 \"시장\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "시장",
+        "translation" : "In class, I learned the meaning of “시장” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "場所",
+        "meaning" : "place; location",
+        "sentence" : "나는 새로 배운 \"장소\"을 공책에 적어 두었다.",
+        "term" : "장소",
+        "translation" : "I wrote the newly learned term “장소” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "運動場",
+        "meaning" : "playground; sports field",
+        "sentence" : "선생님은 \"운동장\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "운동장",
+        "translation" : "The teacher explained in detail when “운동장” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "入場",
+        "meaning" : "entry; admission",
+        "sentence" : "친구와 함께 \"입장\"을 활용한 문장을 만들어 보았다.",
+        "term" : "입장",
+        "translation" : "A friend and I made a sentence using “입장.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "現場",
+        "meaning" : "site; scene",
+        "sentence" : "복습하면서 \"현장\"의 한자와 의미를 다시 확인했다.",
+        "term" : "현장",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “현장” again."
+      }
+    ]
+  },
+  {
+    "character" : "室",
+    "coreMeaning" : "room",
+    "id" : 77,
+    "koreanName" : "집 실",
+    "mnemonic" : "A person reaches a stopping point inside a roofed room.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "敎室",
+        "meaning" : "classroom",
+        "sentence" : "수업에서 \"교실\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "교실",
+        "translation" : "In class, I learned the meaning of “교실” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "事務室",
+        "meaning" : "office",
+        "sentence" : "나는 새로 배운 \"사무실\"을 공책에 적어 두었다.",
+        "term" : "사무실",
+        "translation" : "I wrote the newly learned term “사무실” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "室內",
+        "meaning" : "indoors",
+        "sentence" : "선생님은 \"실내\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "실내",
+        "translation" : "The teacher explained in detail when “실내” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "寢室",
+        "meaning" : "bedroom",
+        "sentence" : "친구와 함께 \"침실\"을 활용한 문장을 만들어 보았다.",
+        "term" : "침실",
+        "translation" : "A friend and I made a sentence using “침실.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "硏究室",
+        "meaning" : "laboratory; research room",
+        "sentence" : "복습하면서 \"연구실\"의 한자와 의미를 다시 확인했다.",
+        "term" : "연구실",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “연구실” again."
+      }
+    ]
+  },
+  {
+    "character" : "食",
+    "coreMeaning" : "eat; food",
+    "id" : 78,
+    "koreanName" : "먹을 식",
+    "mnemonic" : "A covered bowl holds food ready to eat.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "食事",
+        "meaning" : "meal",
+        "sentence" : "수업에서 \"식사\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "식사",
+        "translation" : "In class, I learned the meaning of “식사” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "飮食",
+        "meaning" : "food",
+        "sentence" : "나는 새로 배운 \"음식\"을 공책에 적어 두었다.",
+        "term" : "음식",
+        "translation" : "I wrote the newly learned term “음식” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "食堂",
+        "meaning" : "restaurant; cafeteria",
+        "sentence" : "선생님은 \"식당\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "식당",
+        "translation" : "The teacher explained in detail when “식당” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "食品",
+        "meaning" : "food product",
+        "sentence" : "친구와 함께 \"식품\"을 활용한 문장을 만들어 보았다.",
+        "term" : "식품",
+        "translation" : "A friend and I made a sentence using “식품.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "韓食",
+        "meaning" : "Korean food",
+        "sentence" : "복습하면서 \"한식\"의 한자와 의미를 다시 확인했다.",
+        "term" : "한식",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “한식” again."
+      }
+    ]
+  },
+  {
+    "character" : "地",
+    "coreMeaning" : "ground; land",
+    "id" : 79,
+    "koreanName" : "땅 지",
+    "mnemonic" : "Soil beside a winding shape spreads into land.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "地下",
+        "meaning" : "underground; basement",
+        "sentence" : "수업에서 \"지하\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "지하",
+        "translation" : "In class, I learned the meaning of “지하” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "地域",
+        "meaning" : "region; area",
+        "sentence" : "나는 새로 배운 \"지역\"을 공책에 적어 두었다.",
+        "term" : "지역",
+        "translation" : "I wrote the newly learned term “지역” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "地圖",
+        "meaning" : "map",
+        "sentence" : "선생님은 \"지도\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "지도",
+        "translation" : "The teacher explained in detail when “지도” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "土地",
+        "meaning" : "land; property",
+        "sentence" : "친구와 함께 \"토지\"을 활용한 문장을 만들어 보았다.",
+        "term" : "토지",
+        "translation" : "A friend and I made a sentence using “토지.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "現地",
+        "meaning" : "local place; on site",
+        "sentence" : "복습하면서 \"현지\"의 한자와 의미를 다시 확인했다.",
+        "term" : "현지",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “현지” again."
+      }
+    ]
+  },
+  {
+    "character" : "方",
+    "coreMeaning" : "direction; method",
+    "id" : 80,
+    "koreanName" : "모 방",
+    "mnemonic" : "A traveler points toward a chosen direction.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "方法",
+        "meaning" : "method; way",
+        "sentence" : "수업에서 \"방법\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "방법",
+        "translation" : "In class, I learned the meaning of “방법” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "方向",
+        "meaning" : "direction",
+        "sentence" : "나는 새로 배운 \"방향\"을 공책에 적어 두었다.",
+        "term" : "방향",
+        "translation" : "I wrote the newly learned term “방향” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "地方",
+        "meaning" : "region; locality",
+        "sentence" : "선생님은 \"지방\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "지방",
+        "translation" : "The teacher explained in detail when “지방” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "相對方",
+        "meaning" : "other party; counterpart",
+        "sentence" : "친구와 함께 \"상대방\"을 활용한 문장을 만들어 보았다.",
+        "term" : "상대방",
+        "translation" : "A friend and I made a sentence using “상대방.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "方面",
+        "meaning" : "direction; field",
+        "sentence" : "복습하면서 \"방면\"의 한자와 의미를 다시 확인했다.",
+        "term" : "방면",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “방면” again."
+      }
+    ]
+  },
+  {
+    "character" : "時",
+    "coreMeaning" : "time",
+    "id" : 81,
+    "koreanName" : "때 시",
+    "mnemonic" : "The sun and a measured step mark a particular time.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "時間",
+        "meaning" : "time; hour",
+        "sentence" : "수업에서 \"시간\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "시간",
+        "translation" : "In class, I learned the meaning of “시간” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "當時",
+        "meaning" : "at that time",
+        "sentence" : "나는 새로 배운 \"당시\"을 공책에 적어 두었다.",
+        "term" : "당시",
+        "translation" : "I wrote the newly learned term “당시” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "時期",
+        "meaning" : "time; period",
+        "sentence" : "선생님은 \"시기\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "시기",
+        "translation" : "The teacher explained in detail when “시기” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "臨時",
+        "meaning" : "temporary; provisional",
+        "sentence" : "친구와 함께 \"임시\"을 활용한 문장을 만들어 보았다.",
+        "term" : "임시",
+        "translation" : "A friend and I made a sentence using “임시.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "時差",
+        "meaning" : "time difference",
+        "sentence" : "복습하면서 \"시차\"의 한자와 의미를 다시 확인했다.",
+        "term" : "시차",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “시차” again."
+      }
+    ]
+  },
+  {
+    "character" : "期",
+    "coreMeaning" : "period; expect",
+    "id" : 82,
+    "koreanName" : "기약할 기",
+    "mnemonic" : "A marked moon sets an expected period or deadline.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "期間",
+        "meaning" : "period; duration",
+        "sentence" : "수업에서 \"기간\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "기간",
+        "translation" : "In class, I learned the meaning of “기간” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "時期",
+        "meaning" : "time; period",
+        "sentence" : "나는 새로 배운 \"시기\"을 공책에 적어 두었다.",
+        "term" : "시기",
+        "translation" : "I wrote the newly learned term “시기” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "學期",
+        "meaning" : "school semester",
+        "sentence" : "선생님은 \"학기\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "학기",
+        "translation" : "The teacher explained in detail when “학기” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "期待",
+        "meaning" : "expectation; anticipation",
+        "sentence" : "친구와 함께 \"기대\"을 활용한 문장을 만들어 보았다.",
+        "term" : "기대",
+        "translation" : "A friend and I made a sentence using “기대.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "定期",
+        "meaning" : "regular; fixed-term",
+        "sentence" : "복습하면서 \"정기\"의 한자와 의미를 다시 확인했다.",
+        "term" : "정기",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “정기” again."
+      }
+    ]
+  },
+  {
+    "character" : "間",
+    "coreMeaning" : "between; interval",
+    "id" : 83,
+    "koreanName" : "사이 간",
+    "mnemonic" : "Sunlight enters a gate through the space between.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "時間",
+        "meaning" : "time; hour",
+        "sentence" : "수업에서 \"시간\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "시간",
+        "translation" : "In class, I learned the meaning of “시간” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "人間",
+        "meaning" : "human being; humankind",
+        "sentence" : "나는 새로 배운 \"인간\"을 공책에 적어 두었다.",
+        "term" : "인간",
+        "translation" : "I wrote the newly learned term “인간” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "空間",
+        "meaning" : "space",
+        "sentence" : "선생님은 \"공간\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "공간",
+        "translation" : "The teacher explained in detail when “공간” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "中間",
+        "meaning" : "middle; in between",
+        "sentence" : "친구와 함께 \"중간\"을 활용한 문장을 만들어 보았다.",
+        "term" : "중간",
+        "translation" : "A friend and I made a sentence using “중간.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "期間",
+        "meaning" : "period; duration",
+        "sentence" : "복습하면서 \"기간\"의 한자와 의미를 다시 확인했다.",
+        "term" : "기간",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “기간” again."
+      }
+    ]
+  },
+  {
+    "character" : "同",
+    "coreMeaning" : "same; together",
+    "id" : 84,
+    "koreanName" : "한가지 동",
+    "mnemonic" : "One shared opening gathers everyone under the same cover.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "同時",
+        "meaning" : "same time; simultaneously",
+        "sentence" : "수업에서 \"동시\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "동시",
+        "translation" : "In class, I learned the meaning of “동시” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "共同",
+        "meaning" : "joint; shared",
+        "sentence" : "나는 새로 배운 \"공동\"을 공책에 적어 두었다.",
+        "term" : "공동",
+        "translation" : "I wrote the newly learned term “공동” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "同一",
+        "meaning" : "identical; the same",
+        "sentence" : "선생님은 \"동일\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "동일",
+        "translation" : "The teacher explained in detail when “동일” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "同僚",
+        "meaning" : "colleague; peer",
+        "sentence" : "친구와 함께 \"동료\"을 활용한 문장을 만들어 보았다.",
+        "term" : "동료",
+        "translation" : "A friend and I made a sentence using “동료.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "同意",
+        "meaning" : "agreement; consent",
+        "sentence" : "복습하면서 \"동의\"의 한자와 의미를 다시 확인했다.",
+        "term" : "동의",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “동의” again."
+      }
+    ]
+  },
+  {
+    "character" : "百",
+    "coreMeaning" : "hundred",
+    "id" : 85,
+    "koreanName" : "일백 백",
+    "mnemonic" : "One line over white turns the count into one hundred.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "百貨店",
+        "meaning" : "department store",
+        "sentence" : "수업에서 \"백화점\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "백화점",
+        "translation" : "In class, I learned the meaning of “백화점” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "百點",
+        "meaning" : "one hundred points; perfect score",
+        "sentence" : "나는 새로 배운 \"백점\"을 공책에 적어 두었다.",
+        "term" : "백점",
+        "translation" : "I wrote the newly learned term “백점” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "數百",
+        "meaning" : "hundreds",
+        "sentence" : "선생님은 \"수백\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "수백",
+        "translation" : "The teacher explained in detail when “수백” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "百日",
+        "meaning" : "one hundred days",
+        "sentence" : "친구와 함께 \"백일\"을 활용한 문장을 만들어 보았다.",
+        "term" : "백일",
+        "translation" : "A friend and I made a sentence using “백일.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "百年",
+        "meaning" : "one hundred years; century",
+        "sentence" : "복습하면서 \"백년\"의 한자와 의미를 다시 확인했다.",
+        "term" : "백년",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “백년” again."
+      }
+    ]
+  },
+  {
+    "character" : "部",
+    "coreMeaning" : "part; section",
+    "id" : 86,
+    "koreanName" : "떼 부",
+    "mnemonic" : "A standing division marks one part of a larger whole.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "部分",
+        "meaning" : "part; portion",
+        "sentence" : "수업에서 \"부분\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "부분",
+        "translation" : "In class, I learned the meaning of “부분” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "部署",
+        "meaning" : "department",
+        "sentence" : "나는 새로 배운 \"부서\"을 공책에 적어 두었다.",
+        "term" : "부서",
+        "translation" : "I wrote the newly learned term “부서” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "全部",
+        "meaning" : "all; the whole",
+        "sentence" : "선생님은 \"전부\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "전부",
+        "translation" : "The teacher explained in detail when “전부” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "內部",
+        "meaning" : "inside; internal part",
+        "sentence" : "친구와 함께 \"내부\"을 활용한 문장을 만들어 보았다.",
+        "term" : "내부",
+        "translation" : "A friend and I made a sentence using “내부.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "學部",
+        "meaning" : "undergraduate division; faculty",
+        "sentence" : "복습하면서 \"학부\"의 한자와 의미를 다시 확인했다.",
+        "term" : "학부",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “학부” again."
+      }
+    ]
+  },
+  {
+    "character" : "分",
+    "coreMeaning" : "divide; portion",
+    "id" : 87,
+    "koreanName" : "나눌 분",
+    "mnemonic" : "A blade separates one whole into distinct portions.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "部分",
+        "meaning" : "part; portion",
+        "sentence" : "수업에서 \"부분\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "부분",
+        "translation" : "In class, I learned the meaning of “부분” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "充分",
+        "meaning" : "sufficiency; enough",
+        "sentence" : "나는 새로 배운 \"충분\"을 공책에 적어 두었다.",
+        "term" : "충분",
+        "translation" : "I wrote the newly learned term “충분” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "區分",
+        "meaning" : "classification; distinction",
+        "sentence" : "선생님은 \"구분\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "구분",
+        "translation" : "The teacher explained in detail when “구분” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "分量",
+        "meaning" : "quantity; amount",
+        "sentence" : "친구와 함께 \"분량\"을 활용한 문장을 만들어 보았다.",
+        "term" : "분량",
+        "translation" : "A friend and I made a sentence using “분량.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "身分",
+        "meaning" : "status; identity",
+        "sentence" : "복습하면서 \"신분\"의 한자와 의미를 다시 확인했다.",
+        "term" : "신분",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “신분” again."
+      }
+    ]
+  },
+  {
+    "character" : "多",
+    "coreMeaning" : "many; much",
+    "id" : 88,
+    "koreanName" : "많을 다",
+    "mnemonic" : "Two evenings repeat, suggesting many days and many things.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "多樣",
+        "meaning" : "variety; diverse",
+        "sentence" : "수업에서 \"다양\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "다양",
+        "translation" : "In class, I learned the meaning of “다양” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "多數",
+        "meaning" : "majority; many",
+        "sentence" : "나는 새로 배운 \"다수\"을 공책에 적어 두었다.",
+        "term" : "다수",
+        "translation" : "I wrote the newly learned term “다수” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "多文化",
+        "meaning" : "multiculturalism; multiple cultures",
+        "sentence" : "선생님은 \"다문화\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "다문화",
+        "translation" : "The teacher explained in detail when “다문화” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "多國籍",
+        "meaning" : "multinational",
+        "sentence" : "친구와 함께 \"다국적\"을 활용한 문장을 만들어 보았다.",
+        "term" : "다국적",
+        "translation" : "A friend and I made a sentence using “다국적.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "多量",
+        "meaning" : "large quantity",
+        "sentence" : "복습하면서 \"다량\"의 한자와 의미를 다시 확인했다.",
+        "term" : "다량",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “다량” again."
+      }
+    ]
+  },
+  {
+    "character" : "數",
+    "coreMeaning" : "number; count",
+    "id" : 89,
+    "koreanName" : "셀 수",
+    "mnemonic" : "A hand sorts repeated items so they can be counted.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "數字",
+        "meaning" : "number; numeral",
+        "sentence" : "수업에서 \"숫자\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "숫자",
+        "translation" : "In class, I learned the meaning of “숫자” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "數學",
+        "meaning" : "mathematics",
+        "sentence" : "나는 새로 배운 \"수학\"을 공책에 적어 두었다.",
+        "term" : "수학",
+        "translation" : "I wrote the newly learned term “수학” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "多數",
+        "meaning" : "majority; many",
+        "sentence" : "선생님은 \"다수\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "다수",
+        "translation" : "The teacher explained in detail when “다수” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "少數",
+        "meaning" : "minority; small number",
+        "sentence" : "친구와 함께 \"소수\"을 활용한 문장을 만들어 보았다.",
+        "term" : "소수",
+        "translation" : "A friend and I made a sentence using “소수.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "點數",
+        "meaning" : "score; points",
+        "sentence" : "복습하면서 \"점수\"의 한자와 의미를 다시 확인했다.",
+        "term" : "점수",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “점수” again."
+      }
+    ]
+  },
+  {
+    "character" : "全",
+    "coreMeaning" : "whole; complete",
+    "id" : 90,
+    "koreanName" : "온전할 전",
+    "mnemonic" : "A jewel kept under a cover remains whole and complete.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "全體",
+        "meaning" : "whole; entirety",
+        "sentence" : "수업에서 \"전체\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "전체",
+        "translation" : "In class, I learned the meaning of “전체” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "全國",
+        "meaning" : "the whole country; nationwide",
+        "sentence" : "나는 새로 배운 \"전국\"을 공책에 적어 두었다.",
+        "term" : "전국",
+        "translation" : "I wrote the newly learned term “전국” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "全部",
+        "meaning" : "all; the whole",
+        "sentence" : "선생님은 \"전부\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "전부",
+        "translation" : "The teacher explained in detail when “전부” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "安全",
+        "meaning" : "safety",
+        "sentence" : "친구와 함께 \"안전\"을 활용한 문장을 만들어 보았다.",
+        "term" : "안전",
+        "translation" : "A friend and I made a sentence using “안전.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "完全",
+        "meaning" : "completeness; complete",
+        "sentence" : "복습하면서 \"완전\"의 한자와 의미를 다시 확인했다.",
+        "term" : "완전",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “완전” again."
+      }
+    ]
+  },
+  {
+    "character" : "新",
+    "coreMeaning" : "new",
+    "id" : 91,
+    "koreanName" : "새 신",
+    "mnemonic" : "A fresh axe cuts wood to make something new.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "新聞",
+        "meaning" : "newspaper",
+        "sentence" : "수업에서 \"신문\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "신문",
+        "translation" : "In class, I learned the meaning of “신문” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "新入",
+        "meaning" : "newcomer; newly admitted",
+        "sentence" : "나는 새로 배운 \"신입\"을 공책에 적어 두었다.",
+        "term" : "신입",
+        "translation" : "I wrote the newly learned term “신입” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "最新",
+        "meaning" : "latest; newest",
+        "sentence" : "선생님은 \"최신\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "최신",
+        "translation" : "The teacher explained in detail when “최신” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "革新",
+        "meaning" : "innovation",
+        "sentence" : "친구와 함께 \"혁신\"을 활용한 문장을 만들어 보았다.",
+        "term" : "혁신",
+        "translation" : "A friend and I made a sentence using “혁신.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "新製品",
+        "meaning" : "new product",
+        "sentence" : "복습하면서 \"신제품\"의 한자와 의미를 다시 확인했다.",
+        "term" : "신제품",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “신제품” again."
+      }
+    ]
+  },
+  {
+    "character" : "現",
+    "coreMeaning" : "appear; present",
+    "id" : 92,
+    "koreanName" : "나타날 현",
+    "mnemonic" : "A polished jewel becomes visible and appears clearly.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "現在",
+        "meaning" : "present; now",
+        "sentence" : "수업에서 \"현재\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "현재",
+        "translation" : "In class, I learned the meaning of “현재” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "現實",
+        "meaning" : "reality",
+        "sentence" : "나는 새로 배운 \"현실\"을 공책에 적어 두었다.",
+        "term" : "현실",
+        "translation" : "I wrote the newly learned term “현실” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "表現",
+        "meaning" : "expression",
+        "sentence" : "선생님은 \"표현\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "표현",
+        "translation" : "The teacher explained in detail when “표현” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "發現",
+        "meaning" : "discovery; finding",
+        "sentence" : "친구와 함께 \"발견\"을 활용한 문장을 만들어 보았다.",
+        "term" : "발견",
+        "translation" : "A friend and I made a sentence using “발견.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "現場",
+        "meaning" : "site; scene",
+        "sentence" : "복습하면서 \"현장\"의 한자와 의미를 다시 확인했다.",
+        "term" : "현장",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “현장” again."
+      }
+    ]
+  },
+  {
+    "character" : "代",
+    "coreMeaning" : "replace; generation",
+    "id" : 93,
+    "koreanName" : "대신할 대",
+    "mnemonic" : "One person steps in to replace another generation.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "現代",
+        "meaning" : "modern era; modern times",
+        "sentence" : "수업에서 \"현대\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "현대",
+        "translation" : "In class, I learned the meaning of “현대” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "時代",
+        "meaning" : "era; age",
+        "sentence" : "나는 새로 배운 \"시대\"을 공책에 적어 두었다.",
+        "term" : "시대",
+        "translation" : "I wrote the newly learned term “시대” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "世代",
+        "meaning" : "generation",
+        "sentence" : "선생님은 \"세대\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "세대",
+        "translation" : "The teacher explained in detail when “세대” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "代表",
+        "meaning" : "representative",
+        "sentence" : "친구와 함께 \"대표\"을 활용한 문장을 만들어 보았다.",
+        "term" : "대표",
+        "translation" : "A friend and I made a sentence using “대표.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "交代",
+        "meaning" : "shift; alternation",
+        "sentence" : "복습하면서 \"교대\"의 한자와 의미를 다시 확인했다.",
+        "term" : "교대",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “교대” again."
+      }
+    ]
+  },
+  {
+    "character" : "文",
+    "coreMeaning" : "writing; culture",
+    "id" : 94,
+    "koreanName" : "글월 문",
+    "mnemonic" : "Crossing strokes form a decorated written pattern.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "文化",
+        "meaning" : "culture",
+        "sentence" : "수업에서 \"문화\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "문화",
+        "translation" : "In class, I learned the meaning of “문화” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "文學",
+        "meaning" : "literature",
+        "sentence" : "나는 새로 배운 \"문학\"을 공책에 적어 두었다.",
+        "term" : "문학",
+        "translation" : "I wrote the newly learned term “문학” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "漢文",
+        "meaning" : "classical Chinese writing",
+        "sentence" : "선생님은 \"한문\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "한문",
+        "translation" : "The teacher explained in detail when “한문” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 _____을 만들어 보았다.",
+        "hanja" : "文章",
+        "meaning" : "sentence; writing",
+        "sentence" : "친구와 함께 \"문장\"을 활용한 문장을 만들어 보았다.",
+        "term" : "문장",
+        "translation" : "A friend and I made a sentence using “문장.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "文字",
+        "meaning" : "letter; text message",
+        "sentence" : "복습하면서 \"문자\"의 한자와 의미를 다시 확인했다.",
+        "term" : "문자",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “문자” again."
+      }
+    ]
+  },
+  {
+    "character" : "化",
+    "coreMeaning" : "change; transform",
+    "id" : 95,
+    "koreanName" : "될 화",
+    "mnemonic" : "A standing person turns over and changes form.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "文化",
+        "meaning" : "culture",
+        "sentence" : "수업에서 \"문화\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "문화",
+        "translation" : "In class, I learned the meaning of “문화” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "變化",
+        "meaning" : "change; transformation",
+        "sentence" : "나는 새로 배운 \"변화\"을 공책에 적어 두었다.",
+        "term" : "변화",
+        "translation" : "I wrote the newly learned term “변화” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "國際化",
+        "meaning" : "internationalization",
+        "sentence" : "선생님은 \"국제화\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "국제화",
+        "translation" : "The teacher explained in detail when “국제화” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "現代化",
+        "meaning" : "modernization",
+        "sentence" : "친구와 함께 \"현대화\"을 활용한 문장을 만들어 보았다.",
+        "term" : "현대화",
+        "translation" : "A friend and I made a sentence using “현대화.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "化學",
+        "meaning" : "chemistry",
+        "sentence" : "복습하면서 \"화학\"의 한자와 의미를 다시 확인했다.",
+        "term" : "화학",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “화학” again."
+      }
+    ]
+  },
+  {
+    "character" : "力",
+    "coreMeaning" : "strength; power",
+    "id" : 96,
+    "koreanName" : "힘 력",
+    "mnemonic" : "A bent arm pushes forward with visible strength.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "努力",
+        "meaning" : "effort",
+        "sentence" : "수업에서 \"노력\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "노력",
+        "translation" : "In class, I learned the meaning of “노력” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "能力",
+        "meaning" : "ability; capability",
+        "sentence" : "나는 새로 배운 \"능력\"을 공책에 적어 두었다.",
+        "term" : "능력",
+        "translation" : "I wrote the newly learned term “능력” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "實力",
+        "meaning" : "skill; competence",
+        "sentence" : "선생님은 \"실력\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "실력",
+        "translation" : "The teacher explained in detail when “실력” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "體力",
+        "meaning" : "physical strength",
+        "sentence" : "친구와 함께 \"체력\"을 활용한 문장을 만들어 보았다.",
+        "term" : "체력",
+        "translation" : "A friend and I made a sentence using “체력.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "電力",
+        "meaning" : "electric power",
+        "sentence" : "복습하면서 \"전력\"의 한자와 의미를 다시 확인했다.",
+        "term" : "전력",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “전력” again."
+      }
+    ]
+  },
+  {
+    "character" : "强",
+    "coreMeaning" : "strong",
+    "id" : 97,
+    "koreanName" : "강할 강",
+    "mnemonic" : "A tightened bow and resilient insect suggest strong force.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "强化",
+        "meaning" : "strengthening; reinforcement",
+        "sentence" : "수업에서 \"강화\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "강화",
+        "translation" : "In class, I learned the meaning of “강화” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "强力",
+        "meaning" : "powerful force",
+        "sentence" : "나는 새로 배운 \"강력\"을 공책에 적어 두었다.",
+        "term" : "강력",
+        "translation" : "I wrote the newly learned term “강력” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "强點",
+        "meaning" : "strong point; strength",
+        "sentence" : "선생님은 \"강점\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "강점",
+        "translation" : "The teacher explained in detail when “강점” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "强國",
+        "meaning" : "powerful nation",
+        "sentence" : "친구와 함께 \"강국\"을 활용한 문장을 만들어 보았다.",
+        "term" : "강국",
+        "translation" : "A friend and I made a sentence using “강국.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "强度",
+        "meaning" : "strength; intensity",
+        "sentence" : "복습하면서 \"강도\"의 한자와 의미를 다시 확인했다.",
+        "term" : "강도",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “강도” again."
+      }
+    ]
+  },
+  {
+    "character" : "弱",
+    "coreMeaning" : "weak",
+    "id" : 98,
+    "koreanName" : "약할 약",
+    "mnemonic" : "Two bent bows with loose strings look weak.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "弱點",
+        "meaning" : "weak point; weakness",
+        "sentence" : "수업에서 \"약점\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "약점",
+        "translation" : "In class, I learned the meaning of “약점” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "弱化",
+        "meaning" : "weakening",
+        "sentence" : "나는 새로 배운 \"약화\"을 공책에 적어 두었다.",
+        "term" : "약화",
+        "translation" : "I wrote the newly learned term “약화” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "弱者",
+        "meaning" : "the weak; disadvantaged person",
+        "sentence" : "선생님은 \"약자\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "약자",
+        "translation" : "The teacher explained in detail when “약자” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "虛弱",
+        "meaning" : "frailty; weakness",
+        "sentence" : "친구와 함께 \"허약\"을 활용한 문장을 만들어 보았다.",
+        "term" : "허약",
+        "translation" : "A friend and I made a sentence using “허약.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "脆弱",
+        "meaning" : "vulnerability; fragility",
+        "sentence" : "복습하면서 \"취약\"의 한자와 의미를 다시 확인했다.",
+        "term" : "취약",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “취약” again."
+      }
+    ]
+  },
+  {
+    "character" : "火",
+    "coreMeaning" : "fire",
+    "id" : 99,
+    "koreanName" : "불 화",
+    "mnemonic" : "Flames leap upward while sparks fly to both sides.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "火曜日",
+        "meaning" : "Tuesday",
+        "sentence" : "수업에서 \"화요일\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "화요일",
+        "translation" : "In class, I learned the meaning of “화요일” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "火山",
+        "meaning" : "volcano",
+        "sentence" : "나는 새로 배운 \"화산\"을 공책에 적어 두었다.",
+        "term" : "화산",
+        "translation" : "I wrote the newly learned term “화산” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "火災",
+        "meaning" : "fire; fire disaster",
+        "sentence" : "선생님은 \"화재\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "화재",
+        "translation" : "The teacher explained in detail when “화재” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "火力",
+        "meaning" : "firepower; thermal power",
+        "sentence" : "친구와 함께 \"화력\"을 활용한 문장을 만들어 보았다.",
+        "term" : "화력",
+        "translation" : "A friend and I made a sentence using “화력.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "火傷",
+        "meaning" : "burn injury",
+        "sentence" : "복습하면서 \"화상\"의 한자와 의미를 다시 확인했다.",
+        "term" : "화상",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “화상” again."
+      }
+    ]
+  },
+  {
+    "character" : "信",
+    "coreMeaning" : "trust; believe",
+    "id" : 100,
+    "koreanName" : "믿을 신",
+    "mnemonic" : "A person's words should be worthy of trust.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "信賴",
+        "meaning" : "trust; confidence",
+        "sentence" : "수업에서 \"신뢰\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "신뢰",
+        "translation" : "In class, I learned the meaning of “신뢰” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "信號",
+        "meaning" : "signal",
+        "sentence" : "나는 새로 배운 \"신호\"을 공책에 적어 두었다.",
+        "term" : "신호",
+        "translation" : "I wrote the newly learned term “신호” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "自信",
+        "meaning" : "self-confidence",
+        "sentence" : "선생님은 \"자신\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "자신",
+        "translation" : "The teacher explained in detail when “자신” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "通信",
+        "meaning" : "communication; telecommunications",
+        "sentence" : "친구와 함께 \"통신\"을 활용한 문장을 만들어 보았다.",
+        "term" : "통신",
+        "translation" : "A friend and I made a sentence using “통신.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "信用",
+        "meaning" : "credit; trustworthiness",
+        "sentence" : "복습하면서 \"신용\"의 한자와 의미를 다시 확인했다.",
+        "term" : "신용",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “신용” again."
+      }
+    ]
+  },
+  {
+    "character" : "土",
+    "coreMeaning" : "earth; soil",
+    "id" : 101,
+    "koreanName" : "흙 토",
+    "mnemonic" : "A plant rises from a broad layer of soil.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "土地",
+        "meaning" : "land; property",
+        "sentence" : "수업에서 \"토지\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "토지",
+        "translation" : "In class, I learned the meaning of “토지” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "國土",
+        "meaning" : "national territory",
+        "sentence" : "나는 새로 배운 \"국토\"을 공책에 적어 두었다.",
+        "term" : "국토",
+        "translation" : "I wrote the newly learned term “국토” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "土壤",
+        "meaning" : "soil",
+        "sentence" : "선생님은 \"토양\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "토양",
+        "translation" : "The teacher explained in detail when “토양” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "領土",
+        "meaning" : "territory",
+        "sentence" : "친구와 함께 \"영토\"을 활용한 문장을 만들어 보았다.",
+        "term" : "영토",
+        "translation" : "A friend and I made a sentence using “영토.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "本土",
+        "meaning" : "mainland; native land",
+        "sentence" : "복습하면서 \"본토\"의 한자와 의미를 다시 확인했다.",
+        "term" : "본토",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “본토” again."
+      }
+    ]
+  },
+  {
+    "character" : "世",
+    "coreMeaning" : "world; generation",
+    "id" : 102,
+    "koreanName" : "세상 세",
+    "mnemonic" : "Three linked branches continue through generations of the world.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "世界",
+        "meaning" : "world",
+        "sentence" : "수업에서 \"세계\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "세계",
+        "translation" : "In class, I learned the meaning of “세계” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "世代",
+        "meaning" : "generation",
+        "sentence" : "나는 새로 배운 \"세대\"을 공책에 적어 두었다.",
+        "term" : "세대",
+        "translation" : "I wrote the newly learned term “세대” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "世上",
+        "meaning" : "world; society",
+        "sentence" : "선생님은 \"세상\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "세상",
+        "translation" : "The teacher explained in detail when “세상” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "世紀",
+        "meaning" : "century",
+        "sentence" : "친구와 함께 \"세기\"을 활용한 문장을 만들어 보았다.",
+        "term" : "세기",
+        "translation" : "A friend and I made a sentence using “세기.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "後世",
+        "meaning" : "future generations; posterity",
+        "sentence" : "복습하면서 \"후세\"의 한자와 의미를 다시 확인했다.",
+        "term" : "후세",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “후세” again."
+      }
+    ]
+  },
+  {
+    "character" : "木",
+    "coreMeaning" : "tree; wood",
+    "id" : 103,
+    "koreanName" : "나무 목",
+    "mnemonic" : "A trunk, branches, and roots form a complete tree.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "木曜日",
+        "meaning" : "Thursday",
+        "sentence" : "수업에서 \"목요일\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "목요일",
+        "translation" : "In class, I learned the meaning of “목요일” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "木材",
+        "meaning" : "lumber; timber",
+        "sentence" : "나는 새로 배운 \"목재\"을 공책에 적어 두었다.",
+        "term" : "목재",
+        "translation" : "I wrote the newly learned term “목재” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "木工",
+        "meaning" : "woodworking",
+        "sentence" : "선생님은 \"목공\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "목공",
+        "translation" : "The teacher explained in detail when “목공” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "樹木",
+        "meaning" : "trees and shrubs",
+        "sentence" : "친구와 함께 \"수목\"을 활용한 문장을 만들어 보았다.",
+        "term" : "수목",
+        "translation" : "A friend and I made a sentence using “수목.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "古木",
+        "meaning" : "old tree",
+        "sentence" : "복습하면서 \"고목\"의 한자와 의미를 다시 확인했다.",
+        "term" : "고목",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “고목” again."
+      }
+    ]
+  },
+  {
+    "character" : "球",
+    "coreMeaning" : "ball; sphere",
+    "id" : 104,
+    "koreanName" : "공 구",
+    "mnemonic" : "A round jewel suggests a polished ball or globe.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "蹴球",
+        "meaning" : "soccer; football",
+        "sentence" : "수업에서 \"축구\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "축구",
+        "translation" : "In class, I learned the meaning of “축구” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "野球",
+        "meaning" : "baseball",
+        "sentence" : "나는 새로 배운 \"야구\"을 공책에 적어 두었다.",
+        "term" : "야구",
+        "translation" : "I wrote the newly learned term “야구” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "地球",
+        "meaning" : "Earth; globe",
+        "sentence" : "선생님은 \"지구\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "지구",
+        "translation" : "The teacher explained in detail when “지구” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "籠球",
+        "meaning" : "basketball",
+        "sentence" : "친구와 함께 \"농구\"을 활용한 문장을 만들어 보았다.",
+        "term" : "농구",
+        "translation" : "A friend and I made a sentence using “농구.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "球技",
+        "meaning" : "ball game",
+        "sentence" : "복습하면서 \"구기\"의 한자와 의미를 다시 확인했다.",
+        "term" : "구기",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “구기” again."
+      }
+    ]
+  },
+  {
+    "character" : "立",
+    "coreMeaning" : "stand; establish",
+    "id" : 105,
+    "koreanName" : "설 립",
+    "mnemonic" : "A person plants both feet on the ground and stands upright.",
+    "words" : [
+      {
+        "blankedSentence" : "수업에서 \"_____\"의 뜻을 실제 예문과 함께 익혔다.",
+        "hanja" : "獨立",
+        "meaning" : "independence",
+        "sentence" : "수업에서 \"독립\"의 뜻을 실제 예문과 함께 익혔다.",
+        "term" : "독립",
+        "translation" : "In class, I learned the meaning of “독립” through a practical example."
+      },
+      {
+        "blankedSentence" : "나는 새로 배운 \"_____\"을 공책에 적어 두었다.",
+        "hanja" : "設立",
+        "meaning" : "establishment; founding",
+        "sentence" : "나는 새로 배운 \"설립\"을 공책에 적어 두었다.",
+        "term" : "설립",
+        "translation" : "I wrote the newly learned term “설립” in my notebook."
+      },
+      {
+        "blankedSentence" : "선생님은 \"_____\"이 쓰이는 상황을 자세히 설명했다.",
+        "hanja" : "立場",
+        "meaning" : "position; standpoint",
+        "sentence" : "선생님은 \"입장\"이 쓰이는 상황을 자세히 설명했다.",
+        "term" : "입장",
+        "translation" : "The teacher explained in detail when “입장” is used."
+      },
+      {
+        "blankedSentence" : "친구와 함께 \"_____\"을 활용한 문장을 만들어 보았다.",
+        "hanja" : "立法",
+        "meaning" : "legislation",
+        "sentence" : "친구와 함께 \"입법\"을 활용한 문장을 만들어 보았다.",
+        "term" : "입법",
+        "translation" : "A friend and I made a sentence using “입법.”"
+      },
+      {
+        "blankedSentence" : "복습하면서 \"_____\"의 한자와 의미를 다시 확인했다.",
+        "hanja" : "自立",
+        "meaning" : "self-reliance; independence",
+        "sentence" : "복습하면서 \"자립\"의 한자와 의미를 다시 확인했다.",
+        "term" : "자립",
+        "translation" : "While reviewing, I checked the Hanja and meaning of “자립” again."
+      }
+    ]
+  }
+]

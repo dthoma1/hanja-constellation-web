@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="116" fill="#178c6b"/>
+  <circle cx="256" cy="256" r="170" fill="#f8f2e5"/>
+  <circle cx="256" cy="256" r="144" fill="#eea126" opacity=".18"/>
+  <text x="256" y="333" fill="#1f272f" font-family="Georgia, serif" font-size="220" font-weight="700" text-anchor="middle">星</text>
+</svg>
